@@ -1,0 +1,235 @@
+{
+  "aliases": {
+    "bourbon or rye": [
+      "bourbon",
+      "rye"
+    ],
+    "sweet vermouth": [
+      "rosso vermouth",
+      "italian vermouth",
+      "vermouth rosso",
+      "carpano antica",
+      "punt e mes"
+    ],
+    "dry vermouth": [
+      "french vermouth",
+      "vermouth dry",
+      "dolin dry"
+    ],
+    "bianco vermouth": [
+      "blanc vermouth",
+      "vermouth bianco"
+    ],
+    "orange liqueur": [
+      "orange cura\u00e7ao",
+      "dry cura\u00e7ao",
+      "cura\u00e7ao",
+      "triple sec",
+      "cointreau",
+      "grand marnier"
+    ],
+    "triple sec": [
+      "orange liqueur",
+      "cointreau",
+      "dry cura\u00e7ao",
+      "orange cura\u00e7ao"
+    ],
+    "dry cura\u00e7ao": [
+      "triple sec",
+      "cointreau",
+      "orange liqueur",
+      "pierre ferrand dry cura\u00e7ao"
+    ],
+    "angostura bitters": [
+      "aromatic bitters"
+    ],
+    "peychaud's bitters": [
+      "peychaud's",
+      "new orleans bitters"
+    ],
+    "grenadine": [
+      "pomegranate syrup",
+      "homemade grenadine"
+    ],
+    "black rum": [
+      "blackstrap rum",
+      "gosling's black seal"
+    ],
+    "demerara rum": [
+      "guyana rum",
+      "de rum",
+      "el dorado rum"
+    ],
+    "aged jamaican rum": [
+      "jamaican rum",
+      "overproof jamaican (diluted)"
+    ],
+    "lime juice": [
+      "fresh lime juice"
+    ],
+    "lemon juice": [
+      "fresh lemon juice"
+    ],
+    "soda water": [
+      "club soda",
+      "sparkling water"
+    ],
+    "ginger beer": [
+      "ginger soda"
+    ],
+    "honey syrup": [
+      "honey water"
+    ],
+    "demerara syrup": [
+      "turbinado syrup",
+      "rich demerara syrup"
+    ],
+    "passion fruit syrup": [
+      "passionfruit syrup",
+      "pf syrup"
+    ],
+    "cherry liqueur": [
+      "heering cherry",
+      "cherry brandy"
+    ],
+    "lillet blanc or blanc vermouth": [
+      "lillet blanc",
+      "cocchi americano bianco",
+      "blanc vermouth",
+      "bianco vermouth"
+    ],
+    "absinthe": [
+      "pastis",
+      "herbsaint"
+    ],
+    "campari": [
+      "italian red bitter",
+      "cappelletti aperitivo",
+      "contratto bitter"
+    ],
+    "averna": [
+      "amaro averna",
+      "dark sicilian amaro"
+    ],
+    "cynar": [
+      "artichoke amaro",
+      "cynar 70 (diluted)"
+    ]
+  },
+  "substitutions": {
+    "rye": [
+      "bourbon",
+      "canadian whisky"
+    ],
+    "bourbon": [
+      "rye"
+    ],
+    "cognac": [
+      "brandy"
+    ],
+    "brandy": [
+      "cognac"
+    ],
+    "sweet vermouth": [
+      "punt e mes",
+      "carpano antica"
+    ],
+    "dry vermouth": [
+      "bianco vermouth (sweeter style)"
+    ],
+    "triple sec": [
+      "cointreau",
+      "dry cura\u00e7ao"
+    ],
+    "dry cura\u00e7ao": [
+      "cointreau",
+      "triple sec"
+    ],
+    "maraschino liqueur": [
+      "luxardo maraschino",
+      "stock maraschino"
+    ],
+    "amer picon (or substitute)": [
+      "torani amer",
+      "amaro cio ciaro + orange bitters"
+    ],
+    "punt e mes": [
+      "sweet vermouth"
+    ],
+    "ramazzotti": [
+      "averna",
+      "montenegro"
+    ],
+    "cynar": [
+      "amaro montenegro (different profile)",
+      "amaro meletti"
+    ],
+    "aperol": [
+      "cappelletti",
+      "contratto aperitif"
+    ],
+    "blended scotch": [
+      "single malt (not too peaty)"
+    ],
+    "islay scotch": [
+      "peated scotch"
+    ],
+    "black rum": [
+      "dark jamaican rum"
+    ],
+    "blackstrap rum": [
+      "dark jamaican rum (richer molasses note)"
+    ],
+    "demerara rum": [
+      "jamaican rum (style shift)"
+    ],
+    "white rum": [
+      "light aged rum"
+    ],
+    "aged jamaican rum": [
+      "demerara rum (style shift)"
+    ],
+    "benedictine": [
+      "drambuie (style shift)"
+    ],
+    "honey-ginger syrup": [
+      "honey syrup + ginger syrup"
+    ],
+    "honey syrup": [
+      "1:1 honey:water"
+    ],
+    "demerara syrup": [
+      "simple syrup (less molasses)"
+    ],
+    "orgeat": [
+      "almond syrup (style shift)"
+    ],
+    "falernum": [
+      "falernum syrup",
+      "allspice dram (different)"
+    ],
+    "allspice dram": [
+      "pimento dram"
+    ],
+    "lillet blanc or blanc vermouth": [
+      "cocchi americano bianco",
+      "bianco vermouth"
+    ],
+    "absinthe": [
+      "pastis",
+      "herbsaint"
+    ],
+    "campari": [
+      "cappelletti",
+      "contratto bitter"
+    ],
+    "averna": [
+      "ramazzotti",
+      "montenegro"
+    ],
+    "cynar (or italian amaro)": [
+      "montenegro",
+      "campari (style shift)"
+    ]
+  }
+}

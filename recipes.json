@@ -1,0 +1,2236 @@
+[
+  {
+    "name": "Old Fashioned",
+    "spec_oz": [
+      [
+        "bourbon or rye",
+        2.0
+      ],
+      [
+        "simple syrup",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist (optional cherry)",
+    "tags": [
+      "spirit-forward",
+      "bitter",
+      "classic"
+    ]
+  },
+  {
+    "name": "Perfect Manhattan",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "dry vermouth",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry or lemon twist",
+    "tags": [
+      "spirit-forward",
+      "classic"
+    ]
+  },
+  {
+    "name": "Daiquiri",
+    "spec_oz": [
+      [
+        "white rum",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish or lime wheel",
+    "tags": [
+      "citrus",
+      "sour",
+      "classic"
+    ]
+  },
+  {
+    "name": "Martini",
+    "spec_oz": [
+      [
+        "gin",
+        2.5
+      ],
+      [
+        "dry vermouth",
+        0.5
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist or olive",
+    "tags": [
+      "spirit-forward",
+      "classic",
+      "aromatic"
+    ]
+  },
+  {
+    "name": "Vieux Carr\u00e9",
+    "spec_oz": [
+      [
+        "rye",
+        0.75
+      ],
+      [
+        "cognac",
+        0.75
+      ],
+      [
+        "sweet vermouth",
+        0.75
+      ],
+      [
+        "benedictine",
+        0.25
+      ],
+      [
+        "peychaud's bitters",
+        0.02
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist or cherry",
+    "tags": [
+      "spirit-forward",
+      "new orleans",
+      "aromatic"
+    ]
+  },
+  {
+    "name": "La Louisiane",
+    "spec_oz": [
+      [
+        "rye",
+        1.5
+      ],
+      [
+        "sweet vermouth",
+        0.75
+      ],
+      [
+        "benedictine",
+        0.5
+      ],
+      [
+        "peychaud's bitters",
+        0.06
+      ]
+    ],
+    "method": "stir (absinthe rinse)",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "new orleans",
+      "aromatic"
+    ]
+  },
+  {
+    "name": "Sazerac",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "simple syrup",
+        0.25
+      ],
+      [
+        "peychaud's bitters",
+        0.06
+      ]
+    ],
+    "method": "stir (absinthe rinse)",
+    "garnish": "lemon twist (express & discard)",
+    "tags": [
+      "spirit-forward",
+      "new orleans",
+      "classic"
+    ]
+  },
+  {
+    "name": "Hurricane",
+    "spec_oz": [
+      [
+        "aged rum",
+        2.0
+      ],
+      [
+        "white rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "passion fruit syrup",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "orange slice & cherry",
+    "tags": [
+      "tiki",
+      "fruity",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Paper Plane",
+    "spec_oz": [
+      [
+        "bourbon",
+        0.75
+      ],
+      [
+        "aperol",
+        0.75
+      ],
+      [
+        "amaro nonino",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "modern-classic",
+      "citrus",
+      "bitter"
+    ]
+  },
+  {
+    "name": "Negroni",
+    "spec_oz": [
+      [
+        "gin",
+        1.0
+      ],
+      [
+        "campari",
+        1.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "bitter",
+      "spirit-forward",
+      "classic"
+    ]
+  },
+  {
+    "name": "Americano",
+    "spec_oz": [
+      [
+        "campari",
+        1.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ],
+      [
+        "soda water",
+        3.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "orange slice",
+    "tags": [
+      "bitter",
+      "spritz",
+      "low-abv"
+    ]
+  },
+  {
+    "name": "Boulevardier",
+    "spec_oz": [
+      [
+        "bourbon",
+        1.5
+      ],
+      [
+        "campari",
+        1.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist or cherry",
+    "tags": [
+      "bitter",
+      "spirit-forward"
+    ]
+  },
+  {
+    "name": "Ward Eight",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "orange juice",
+        0.5
+      ],
+      [
+        "grenadine",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "orange slice & cherry",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Scofflaw",
+    "spec_oz": [
+      [
+        "rye",
+        1.5
+      ],
+      [
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.5
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "12 Mile Limit",
+    "spec_oz": [
+      [
+        "white rum",
+        1.0
+      ],
+      [
+        "rye",
+        0.5
+      ],
+      [
+        "brandy",
+        0.5
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Remember the Maine",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        0.75
+      ],
+      [
+        "cherry liqueur",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir (absinthe rinse)",
+    "garnish": "cherry or lemon twist",
+    "tags": [
+      "spirit-forward",
+      "classic",
+      "aromatic"
+    ]
+  },
+  {
+    "name": "Army & Navy",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "orgeat",
+        0.75
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "nutty",
+      "classic"
+    ]
+  },
+  {
+    "name": "Man O' War",
+    "spec_oz": [
+      [
+        "bourbon",
+        1.5
+      ],
+      [
+        "cointreau",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Mexican Firing Squad",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.75
+      ],
+      [
+        "angostura bitters",
+        0.06
+      ],
+      [
+        "soda water",
+        2.0
+      ]
+    ],
+    "method": "shake, top with soda",
+    "garnish": "lime wheel",
+    "tags": [
+      "citrus",
+      "highball"
+    ]
+  },
+  {
+    "name": "Tom Collins",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lemon juice",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.5
+      ],
+      [
+        "soda water",
+        3.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "lemon wheel & cherry",
+    "tags": [
+      "citrus",
+      "highball",
+      "classic"
+    ]
+  },
+  {
+    "name": "Paloma",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "grapefruit soda",
+        3.0
+      ],
+      [
+        "salt",
+        0.0
+      ]
+    ],
+    "method": "build (salt rim optional)",
+    "garnish": "lime wedge",
+    "tags": [
+      "highball",
+      "citrus",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Dark 'n Stormy",
+    "spec_oz": [
+      [
+        "black rum",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "ginger beer",
+        4.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "lime wedge",
+    "tags": [
+      "highball",
+      "spicy",
+      "classic"
+    ]
+  },
+  {
+    "name": "French 75",
+    "spec_oz": [
+      [
+        "gin",
+        1.0
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.5
+      ],
+      [
+        "champagne",
+        3.0
+      ]
+    ],
+    "method": "shake short, top with champagne",
+    "garnish": "lemon twist",
+    "tags": [
+      "sparkling",
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Saturn",
+    "spec_oz": [
+      [
+        "gin",
+        1.25
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "passion fruit syrup",
+        0.5
+      ],
+      [
+        "orgeat",
+        0.25
+      ],
+      [
+        "velvet falernum",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon wheel (or tiki garnish)",
+    "tags": [
+      "tiki",
+      "fruity",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Mai Tai",
+    "spec_oz": [
+      [
+        "aged jamaican rum",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "dry cura\u00e7ao",
+        0.5
+      ],
+      [
+        "orgeat",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.25
+      ]
+    ],
+    "method": "shake; serve over crushed ice",
+    "garnish": "mint bouquet & spent lime",
+    "tags": [
+      "tiki",
+      "nutty",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Scorpion",
+    "spec_oz": [
+      [
+        "white rum",
+        1.5
+      ],
+      [
+        "brandy",
+        0.75
+      ],
+      [
+        "lemon juice",
+        1.0
+      ],
+      [
+        "orange juice",
+        0.75
+      ],
+      [
+        "orgeat",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "orange slice & mint",
+    "tags": [
+      "tiki",
+      "fruity",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Jungle Bird",
+    "spec_oz": [
+      [
+        "black rum",
+        1.5
+      ],
+      [
+        "campari",
+        0.75
+      ],
+      [
+        "pineapple juice",
+        1.5
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "pineapple frond",
+    "tags": [
+      "tiki",
+      "bitter",
+      "fruity"
+    ]
+  },
+  {
+    "name": "Jet Pilot",
+    "spec_oz": [
+      [
+        "dark jamaican rum",
+        1.0
+      ],
+      [
+        "gold puerto rican rum",
+        0.75
+      ],
+      [
+        "151 demerara rum",
+        0.75
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "grapefruit juice",
+        0.5
+      ],
+      [
+        "cinnamon syrup",
+        0.5
+      ],
+      [
+        "falernum",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "blend or whip shake; crushed ice",
+    "garnish": "cinnamon stick",
+    "tags": [
+      "tiki",
+      "spicy",
+      "strong"
+    ]
+  },
+  {
+    "name": "Test Pilot",
+    "spec_oz": [
+      [
+        "light rum",
+        1.5
+      ],
+      [
+        "dark rum",
+        0.75
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "falernum",
+        0.5
+      ],
+      [
+        "cointreau",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "blend or shake; crushed ice",
+    "garnish": "lime wheel",
+    "tags": [
+      "tiki",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Navy Grog",
+    "spec_oz": [
+      [
+        "aged jamaican rum",
+        1.0
+      ],
+      [
+        "gold puerto rican rum",
+        1.0
+      ],
+      [
+        "demerara rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "white grapefruit juice",
+        0.5
+      ],
+      [
+        "honey syrup",
+        0.5
+      ],
+      [
+        "demerara syrup",
+        0.5
+      ]
+    ],
+    "method": "shake; crushed ice",
+    "garnish": "ice cone & mint",
+    "tags": [
+      "tiki",
+      "citrus",
+      "rum blend"
+    ]
+  },
+  {
+    "name": "Corn 'n Oil",
+    "spec_oz": [
+      [
+        "blackstrap rum",
+        2.0
+      ],
+      [
+        "velvet falernum",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.04
+      ]
+    ],
+    "method": "build",
+    "garnish": "lime wedge",
+    "tags": [
+      "spicy",
+      "rich",
+      "classic"
+    ]
+  },
+  {
+    "name": "Hotel Nacional",
+    "spec_oz": [
+      [
+        "aged rum",
+        1.5
+      ],
+      [
+        "pineapple juice",
+        0.75
+      ],
+      [
+        "apricot liqueur",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lime wheel",
+    "tags": [
+      "tropical",
+      "fruity",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Cobra's Fang",
+    "spec_oz": [
+      [
+        "aged rum",
+        1.0
+      ],
+      [
+        "151 demerara rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "orange juice",
+        0.5
+      ],
+      [
+        "passion fruit syrup",
+        0.5
+      ],
+      [
+        "falernum",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "blend or shake; crushed ice",
+    "garnish": "mint & orange",
+    "tags": [
+      "tiki",
+      "fruity",
+      "spicy",
+      "strong"
+    ]
+  },
+  {
+    "name": "Shrunken Skull",
+    "spec_oz": [
+      [
+        "demerara rum",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "grenadine",
+        0.5
+      ]
+    ],
+    "method": "shake; crushed ice",
+    "garnish": "lime wheel",
+    "tags": [
+      "tiki",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Seabreeze Cooler",
+    "spec_oz": [
+      [
+        "gin",
+        1.5
+      ],
+      [
+        "apricot liqueur",
+        0.5
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.25
+      ],
+      [
+        "soda water",
+        2.0
+      ]
+    ],
+    "method": "shake, top with soda",
+    "garnish": "lemon wheel",
+    "tags": [
+      "highball",
+      "fruity",
+      "classic"
+    ]
+  },
+  {
+    "name": "Singapore Sling",
+    "spec_oz": [
+      [
+        "gin",
+        1.5
+      ],
+      [
+        "cherry liqueur",
+        0.5
+      ],
+      [
+        "cointreau",
+        0.25
+      ],
+      [
+        "benedictine",
+        0.25
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "pineapple juice",
+        1.0
+      ],
+      [
+        "grenadine",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "soda water",
+        1.0
+      ]
+    ],
+    "method": "shake, top with soda",
+    "garnish": "cherry & pineapple",
+    "tags": [
+      "classic",
+      "fruity",
+      "complex"
+    ]
+  },
+  {
+    "name": "Gold Rush",
+    "spec_oz": [
+      [
+        "bourbon",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "honey syrup",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "modern-classic",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Penicillin",
+    "spec_oz": [
+      [
+        "blended scotch",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "honey-ginger syrup",
+        0.75
+      ],
+      [
+        "islay scotch",
+        0.25
+      ]
+    ],
+    "method": "shake; float islay",
+    "garnish": "candied ginger (optional)",
+    "tags": [
+      "modern-classic",
+      "smoky",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Pimm's Cup",
+    "spec_oz": [
+      [
+        "pimm's no. 1",
+        1.5
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "ginger ale",
+        3.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "cucumber, mint, citrus",
+    "tags": [
+      "refreshing",
+      "herbal",
+      "highball"
+    ]
+  },
+  {
+    "name": "El Presidente",
+    "spec_oz": [
+      [
+        "aged rum",
+        1.5
+      ],
+      [
+        "dry vermouth",
+        0.75
+      ],
+      [
+        "dry cura\u00e7ao",
+        0.5
+      ],
+      [
+        "grenadine",
+        0.1
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "cuban-classic",
+      "aromatic"
+    ]
+  },
+  {
+    "name": "Corpse Reviver #2",
+    "spec_oz": [
+      [
+        "gin",
+        0.75
+      ],
+      [
+        "cointreau",
+        0.75
+      ],
+      [
+        "lillet blanc or blanc vermouth",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "shake (absinthe rinse optional)",
+    "garnish": "no garnish",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Mezcal Margarita",
+    "spec_oz": [
+      [
+        "mezcal",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "triple sec",
+        0.75
+      ],
+      [
+        "agave syrup",
+        0.25
+      ]
+    ],
+    "method": "shake (salt rim optional)",
+    "garnish": "lime wheel",
+    "tags": [
+      "citrus",
+      "smoky"
+    ]
+  },
+  {
+    "name": "Black Manhattan",
+    "spec_oz": [
+      [
+        "rye or bourbon",
+        2.0
+      ],
+      [
+        "averna",
+        1.0
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ]
+  },
+  {
+    "name": "Artist's Special",
+    "spec_oz": [
+      [
+        "scotch",
+        1.5
+      ],
+      [
+        "sherry (oloroso or amontillado)",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "grenadine",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "sherry"
+    ]
+  },
+  {
+    "name": "Sidecar",
+    "spec_oz": [
+      [
+        "cognac",
+        2.0
+      ],
+      [
+        "cointreau",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ]
+    ],
+    "method": "shake (sugar rim optional)",
+    "garnish": "orange twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Between the Sheets",
+    "spec_oz": [
+      [
+        "cognac",
+        1.0
+      ],
+      [
+        "light rum",
+        1.0
+      ],
+      [
+        "cointreau",
+        1.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Greenpoint",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "yellow chartreuse",
+        0.5
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "modern-classic"
+    ]
+  },
+  {
+    "name": "Southside",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "simple syrup",
+        0.75
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with mint",
+    "garnish": "mint sprig",
+    "tags": [
+      "citrus",
+      "herbal",
+      "classic"
+    ]
+  },
+  {
+    "name": "Eastside",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "simple syrup",
+        0.75
+      ],
+      [
+        "cucumber slices",
+        0.0
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with cucumber & mint",
+    "garnish": "cucumber slice & mint",
+    "tags": [
+      "citrus",
+      "herbal",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Eastern Standard",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.75
+      ],
+      [
+        "cucumber slices",
+        0.0
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with cucumber & mint",
+    "garnish": "cucumber slice",
+    "tags": [
+      "citrus",
+      "herbal",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Red Hook",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "punt e mes",
+        0.5
+      ],
+      [
+        "maraschino liqueur",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "modern-classic"
+    ]
+  },
+  {
+    "name": "Bensonhurst",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "cynar",
+        0.25
+      ],
+      [
+        "maraschino liqueur",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "bitter"
+    ]
+  },
+  {
+    "name": "Carroll Gardens",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "amaro nardini",
+        0.5
+      ],
+      [
+        "maraschino liqueur",
+        0.17
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ]
+  },
+  {
+    "name": "Cobble Hill",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "dry vermouth",
+        0.5
+      ],
+      [
+        "ramazzotti",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir with a slice of cucumber",
+    "garnish": "cucumber slice",
+    "tags": [
+      "spirit-forward",
+      "amaro",
+      "herbal"
+    ]
+  },
+  {
+    "name": "Bushwick",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "ramazzotti",
+        0.5
+      ],
+      [
+        "maraschino liqueur",
+        0.17
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ]
+  },
+  {
+    "name": "Little Italy",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "cynar",
+        0.75
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "bitter"
+    ]
+  },
+  {
+    "name": "Manhattan",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "classic"
+    ]
+  },
+  {
+    "name": "Brooklyn",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "maraschino liqueur",
+        0.25
+      ],
+      [
+        "amer picon (or substitute)",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "classic"
+    ]
+  },
+  {
+    "name": "Bronx",
+    "spec_oz": [
+      [
+        "gin",
+        1.5
+      ],
+      [
+        "orange juice",
+        0.75
+      ],
+      [
+        "dry vermouth",
+        0.25
+      ],
+      [
+        "sweet vermouth",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "orange twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Queens",
+    "spec_oz": [
+      [
+        "gin",
+        1.5
+      ],
+      [
+        "pineapple juice",
+        1.0
+      ],
+      [
+        "dry vermouth",
+        0.25
+      ],
+      [
+        "sweet vermouth",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "fruity",
+      "classic"
+    ]
+  },
+  {
+    "name": "Staten Island Ferry",
+    "spec_oz": [
+      [
+        "vodka",
+        1.5
+      ],
+      [
+        "pineapple juice",
+        4.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "pineapple wedge",
+    "tags": [
+      "highball",
+      "fruity"
+    ]
+  },
+  {
+    "name": "Zombie (1934-inspired)",
+    "spec_oz": [
+      [
+        "puerto rican rum",
+        1.5
+      ],
+      [
+        "jamaican rum",
+        1.5
+      ],
+      [
+        "151 demerara rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "grapefruit juice",
+        0.5
+      ],
+      [
+        "cinnamon syrup",
+        0.5
+      ],
+      [
+        "falernum",
+        0.5
+      ],
+      [
+        "grenadine",
+        0.1
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "blend or whip; crushed ice",
+    "garnish": "mint & fruit skewer",
+    "tags": [
+      "tiki",
+      "complex",
+      "strong"
+    ]
+  },
+  {
+    "name": "Ancient Mariner",
+    "spec_oz": [
+      [
+        "demerara rum",
+        1.0
+      ],
+      [
+        "dark jamaican rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "grapefruit juice",
+        0.5
+      ],
+      [
+        "allspice dram",
+        0.25
+      ],
+      [
+        "demerara syrup",
+        0.5
+      ]
+    ],
+    "method": "shake; crushed ice",
+    "garnish": "mint",
+    "tags": [
+      "tiki",
+      "spicy",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Batanga",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "cola",
+        4.0
+      ],
+      [
+        "salt",
+        0.0
+      ]
+    ],
+    "method": "build (salted rim)",
+    "garnish": "lime wedge",
+    "tags": [
+      "highball",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Banana Daiquiri",
+    "spec_oz": [
+      [
+        "white rum",
+        1.5
+      ],
+      [
+        "banana liqueur",
+        0.5
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.5
+      ]
+    ],
+    "method": "shake or blend",
+    "garnish": "banana slice",
+    "tags": [
+      "tropical",
+      "fruity",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Division Bell",
+    "spec_oz": [
+      [
+        "mezcal",
+        0.75
+      ],
+      [
+        "aperol",
+        0.75
+      ],
+      [
+        "maraschino liqueur",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "grapefruit twist",
+    "tags": [
+      "modern-classic",
+      "smoky",
+      "citrus"
+    ]
+  },
+  {
+    "name": "Ramos Gin Fizz",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.5
+      ],
+      [
+        "heavy cream",
+        1.0
+      ],
+      [
+        "egg white",
+        1.0
+      ],
+      [
+        "orange flower water",
+        0.02
+      ],
+      [
+        "soda water",
+        2.0
+      ]
+    ],
+    "method": "dry shake, wet shake, top with soda",
+    "garnish": "no garnish",
+    "tags": [
+      "fizz",
+      "creamy",
+      "classic"
+    ]
+  },
+  {
+    "name": "Old Pal",
+    "spec_oz": [
+      [
+        "rye",
+        1.5
+      ],
+      [
+        "campari",
+        0.75
+      ],
+      [
+        "dry vermouth",
+        0.75
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "bitter",
+      "classic"
+    ]
+  },
+  {
+    "name": "Oaxaca Old Fashioned",
+    "spec_oz": [
+      [
+        "reposado tequila",
+        1.5
+      ],
+      [
+        "mezcal",
+        0.5
+      ],
+      [
+        "agave syrup",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "smoky",
+      "spirit-forward",
+      "modern-classic"
+    ]
+  },
+  {
+    "name": "Suffering Bastard",
+    "spec_oz": [
+      [
+        "gin",
+        1.0
+      ],
+      [
+        "brandy",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.04
+      ],
+      [
+        "ginger beer",
+        4.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "mint & lime",
+    "tags": [
+      "highball",
+      "spicy",
+      "tiki-classic"
+    ]
+  },
+  {
+    "name": "Pan American Clipper",
+    "spec_oz": [
+      [
+        "apple brandy",
+        1.5
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.5
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "shake (absinthe rinse optional)",
+    "garnish": "no garnish",
+    "tags": [
+      "citrus",
+      "classic"
+    ]
+  },
+  {
+    "name": "Three Dots and a Dash",
+    "spec_oz": [
+      [
+        "blended aged rum",
+        1.5
+      ],
+      [
+        "honey syrup",
+        0.5
+      ],
+      [
+        "demerara syrup",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "orange juice",
+        0.5
+      ],
+      [
+        "allspice dram",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "shake; crushed ice",
+    "garnish": "three cherries & pineapple frond",
+    "tags": [
+      "tiki",
+      "spicy",
+      "fruity"
+    ]
+  },
+  {
+    "name": "Old Paloma (Ruby Red variant)",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "ruby red grapefruit juice",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.25
+      ],
+      [
+        "soda water",
+        1.0
+      ],
+      [
+        "salt",
+        0.0
+      ]
+    ],
+    "method": "build (salt rim optional)",
+    "garnish": "grapefruit wedge",
+    "tags": [
+      "refreshing",
+      "citrus",
+      "highball"
+    ]
+  },
+  {
+    "name": "Hanky Panky",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        1.5
+      ],
+      [
+        "fernet branca",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "aromatic",
+      "classic",
+      "bitter"
+    ]
+  },
+  {
+    "name": "Art of Choke",
+    "spec_oz": [
+      [
+        "white rum",
+        1.5
+      ],
+      [
+        "cynar",
+        0.75
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "demerara syrup",
+        0.5
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with mint",
+    "garnish": "mint sprig",
+    "tags": [
+      "bitter",
+      "herbal",
+      "modern"
+    ]
+  },
+  {
+    "name": "Rabo de Galo",
+    "spec_oz": [
+      [
+        "cacha\u00e7a",
+        2.0
+      ],
+      [
+        "cynar (or italian amaro)",
+        0.75
+      ]
+    ],
+    "method": "stir or build over ice",
+    "garnish": "orange twist",
+    "tags": [
+      "amaro",
+      "spirit-forward",
+      "bitter"
+    ]
+  }
+]
