@@ -56,18 +56,23 @@ Each object looks like:
 
 ```json
 {
-  "name": "Sazerac",
-  "aliases": ["New Orleans Sazerac"],
+  "name": "Eeyore's Requiem",
+  "aliases": ["Eeyore’s", "Eeyore Requiem"],
   "spec_oz": [
-    { "ingredient": "Rye Whiskey", "amount_oz": 2.0 },
-    { "ingredient": "Sugar Cube", "amount_oz": 0.25 },
-    { "ingredient": "Peychaud's Bitters", "amount_oz": 0.125 }
+    { "ingredient": "Gin", "amount_oz": 1.5 },
+    { "ingredient": "Campari", "amount_oz": 0.5 },
+    { "ingredient": "Cynar", "amount_oz": 1.0 },
+    { "ingredient": "Sweet Vermouth", "amount_oz": 0.5 },
+    { "ingredient": "Fernet Branca", "amount_oz": 0.17 },
+    { "ingredient": "Orange Bitters", "amount_oz": 0.02 }
   ],
-  "garnish": "Lemon peel",
-  "method": "Stir",
+  "garnish": "Orange twist (express & discard)",
+  "method": "Stir; serve up",
   "substitutions": [
-    { "ingredient": "Rye Whiskey", "possible_subs": ["Bourbon"] }
+    { "ingredient": "Campari", "possible_subs": ["Cappelletti", "Luxardo Bitter", "Gancia Bitter"] },
+    { "ingredient": "Cynar", "possible_subs": ["Cynar 70 (stronger)", "Cardamaro (sweeter)"] },
+    { "ingredient": "Sweet Vermouth", "possible_subs": ["Carpano Antica", "Cocchi Vermouth di Torino"] }
   ],
-  "tags": ["classic", "whiskey", "New Orleans"],
-  "origin": "The Sazerac House, New Orleans"
+  "tags": ["bitter", "amaro-forward", "modern-classic"],
+  "origin": "Toby Maloney, The Violet Hour (Chicago, 2008)"
 }
