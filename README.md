@@ -13,22 +13,24 @@ A curated cocktail recommendation engine powered by the OpenAI API and a meticul
     - Garnish instructions
     - Method (shake, stir, build, blend, etc.)
     - Acceptable ingredient substitutions
-    - origin or attribution for every recipe
+    - Origin or attribution for every recipe
     - Tagging for style/ genre (tiki, classic, modern, etc...)
 
 - **OpenAI API Integration**  
-  - Provide a list of ingredients you have on hand, and the system recommends cocktails you can make (or nearly make).
+  - Provide a list of ingredients you have on hand... 
   - Provide a taste or a flavor you are in the mood for...
-  - Provide a genre you are interested in... 
-  - Offers smart substitutions (e.g., Triple Sec ↔ Dry Curaçao).
+  - Provide a genre you are interested in...
+  - Provide an origin location or creator...
+  - *and the system recommends cocktails you can make!!!* 
+  - (Also offers smart substitutions e.g., Triple Sec ↔ Dry Curaçao).
 
 - **Historical Context**  
   - Origins sourced from respected cocktail history references within Kevin Ryan's home library:
-    - *Sasha Petraske’s “Regarding Cocktails” (and cocktails from Milk and Honey)*
+    - *Sasha Petraske’s “Regarding Cocktails” (and cocktails from Milk and Honey)*,
+    - *Maksym Pazuniak's Rogue Cocktails*, *Beta Cocktails* *and cocktails from Cure in New Orleans*,
     - *Death & Co cocktails*,
-    - *Maksym Pazuniak's Rogue Cocktails*, *Beta Cocktails* and cocktails from Cure in New Orleans,
-    - *Smuggler’s Cove by Martin Cate*
-    - *Beachbum Berry’s tiki research*
+    - *Smuggler’s Cove by Martin and Rebecca Cate*,
+    - *Beachbum Berry’s tiki research*,
     - *Savoy Cocktail Book*
     - and other important literature!!!
 
