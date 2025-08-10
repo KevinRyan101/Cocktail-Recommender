@@ -1,381 +1,5 @@
 [
   {
-    "name": "Old Fashioned",
-    "spec_oz": [
-      [
-        "bourbon or rye",
-        2.0
-      ],
-      [
-        "simple syrup",
-        0.25
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "orange twist (optional cherry)",
-    "tags": [
-      "spirit-forward",
-      "bitter",
-      "classic"
-    ]
-  },
-  {
-    "name": "Perfect Manhattan",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "sweet vermouth",
-        0.5
-      ],
-      [
-        "dry vermouth",
-        0.5
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "cherry or lemon twist",
-    "tags": [
-      "spirit-forward",
-      "classic"
-    ]
-  },
-  {
-    "name": "Daiquiri",
-    "spec_oz": [
-      [
-        "white rum",
-        2.0
-      ],
-      [
-        "lime juice",
-        1.0
-      ],
-      [
-        "simple syrup",
-        0.75
-      ]
-    ],
-    "method": "shake",
-    "garnish": "no garnish or lime wheel",
-    "tags": [
-      "citrus",
-      "sour",
-      "classic"
-    ]
-  },
-  {
-    "name": "Martini",
-    "spec_oz": [
-      [
-        "gin",
-        2.5
-      ],
-      [
-        "dry vermouth",
-        0.5
-      ],
-      [
-        "orange bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist or olive",
-    "tags": [
-      "spirit-forward",
-      "classic",
-      "aromatic"
-    ]
-  },
-  {
-    "name": "Vieux Carr\u00e9",
-    "spec_oz": [
-      [
-        "rye",
-        0.75
-      ],
-      [
-        "cognac",
-        0.75
-      ],
-      [
-        "sweet vermouth",
-        0.75
-      ],
-      [
-        "benedictine",
-        0.25
-      ],
-      [
-        "peychaud's bitters",
-        0.02
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist or cherry",
-    "tags": [
-      "spirit-forward",
-      "new orleans",
-      "aromatic"
-    ]
-  },
-  {
-    "name": "La Louisiane",
-    "spec_oz": [
-      [
-        "rye",
-        1.5
-      ],
-      [
-        "sweet vermouth",
-        0.75
-      ],
-      [
-        "benedictine",
-        0.5
-      ],
-      [
-        "peychaud's bitters",
-        0.06
-      ]
-    ],
-    "method": "stir (absinthe rinse)",
-    "garnish": "cherry",
-    "tags": [
-      "spirit-forward",
-      "new orleans",
-      "aromatic"
-    ]
-  },
-  {
-    "name": "Sazerac",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "simple syrup",
-        0.25
-      ],
-      [
-        "peychaud's bitters",
-        0.06
-      ]
-    ],
-    "method": "stir (absinthe rinse)",
-    "garnish": "lemon twist (express & discard)",
-    "tags": [
-      "spirit-forward",
-      "new orleans",
-      "classic"
-    ]
-  },
-  {
-    "name": "Hurricane",
-    "spec_oz": [
-      [
-        "aged rum",
-        2.0
-      ],
-      [
-        "white rum",
-        1.0
-      ],
-      [
-        "lime juice",
-        1.0
-      ],
-      [
-        "passion fruit syrup",
-        1.0
-      ],
-      [
-        "simple syrup",
-        0.5
-      ]
-    ],
-    "method": "shake",
-    "garnish": "orange slice & cherry",
-    "tags": [
-      "tiki",
-      "fruity",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Paper Plane",
-    "spec_oz": [
-      [
-        "bourbon",
-        0.75
-      ],
-      [
-        "aperol",
-        0.75
-      ],
-      [
-        "amaro nonino",
-        0.75
-      ],
-      [
-        "lemon juice",
-        0.75
-      ]
-    ],
-    "method": "shake",
-    "garnish": "no garnish",
-    "tags": [
-      "modern-classic",
-      "citrus",
-      "bitter"
-    ]
-  },
-  {
-    "name": "Negroni",
-    "spec_oz": [
-      [
-        "gin",
-        1.0
-      ],
-      [
-        "campari",
-        1.0
-      ],
-      [
-        "sweet vermouth",
-        1.0
-      ]
-    ],
-    "method": "stir",
-    "garnish": "orange twist",
-    "tags": [
-      "bitter",
-      "spirit-forward",
-      "classic"
-    ]
-  },
-  {
-    "name": "Americano",
-    "spec_oz": [
-      [
-        "campari",
-        1.0
-      ],
-      [
-        "sweet vermouth",
-        1.0
-      ],
-      [
-        "soda water",
-        3.0
-      ]
-    ],
-    "method": "build",
-    "garnish": "orange slice",
-    "tags": [
-      "bitter",
-      "spritz",
-      "low-abv"
-    ]
-  },
-  {
-    "name": "Boulevardier",
-    "spec_oz": [
-      [
-        "bourbon",
-        1.5
-      ],
-      [
-        "campari",
-        1.0
-      ],
-      [
-        "sweet vermouth",
-        1.0
-      ]
-    ],
-    "method": "stir",
-    "garnish": "orange twist or cherry",
-    "tags": [
-      "bitter",
-      "spirit-forward"
-    ]
-  },
-  {
-    "name": "Ward Eight",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "lemon juice",
-        0.5
-      ],
-      [
-        "orange juice",
-        0.5
-      ],
-      [
-        "grenadine",
-        0.5
-      ]
-    ],
-    "method": "shake",
-    "garnish": "orange slice & cherry",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Scofflaw",
-    "spec_oz": [
-      [
-        "rye",
-        1.5
-      ],
-      [
-        "dry vermouth",
-        1.0
-      ],
-      [
-        "lemon juice",
-        0.75
-      ],
-      [
-        "grenadine",
-        0.5
-      ],
-      [
-        "orange bitters",
-        0.02
-      ]
-    ],
-    "method": "shake",
-    "garnish": "lemon twist",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
     "name": "12 Mile Limit",
     "spec_oz": [
       [
@@ -404,35 +28,119 @@
     "tags": [
       "citrus",
       "classic"
-    ]
+    ],
+    "origin": "Prohibition-era; printed 1933 in Here's How"
   },
   {
-    "name": "Remember the Maine",
+    "name": "A Moment of Silence",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 1/2 ounces rye whiskey",
+      "1 ounce apricot liqueur, preferably Marie Brizard Apry",
+      "1/2 ounce Amaro Averna",
+      "1/2 ounce Angostura bitters",
+      "1/4 ounce apple brandy, preferably Laird's Bonded",
+      "Campari, for rinse"
+    ],
+    "origin": "Milk & Honey (NYC, Petraske-era)"
+  },
+  {
+    "name": "Americano",
     "spec_oz": [
       [
-        "rye",
-        2.0
+        "campari",
+        1.0
       ],
       [
         "sweet vermouth",
-        0.75
+        1.0
       ],
       [
-        "cherry liqueur",
+        "soda water",
+        3.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "orange slice",
+    "tags": [
+      "bitter",
+      "spritz",
+      "low-abv"
+    ],
+    "origin": "Gaspare Campari (Milan, 1860s)"
+  },
+  {
+    "name": "Ancient Mariner",
+    "spec_oz": [
+      [
+        ". Jamaican Rum",
+        1.0
+      ],
+      [
+        ". Demerara Rum",
+        1.0
+      ],
+      [
+        ". Allspice Dram",
         0.25
       ],
       [
-        "angostura bitters",
-        0.02
+        ". Lime Juice",
+        0.75
+      ],
+      [
+        ". Simple Syrup",
+        0.5
+      ],
+      [
+        ". Grapefruit Juice",
+        0.5
+      ],
+      [
+        ". Gin",
+        1.5
+      ],
+      [
+        ". Cherry Heering",
+        0.25
+      ],
+      [
+        ". B\u00e9n\u00e9dictine DOM",
+        0.25
+      ],
+      [
+        ". Triple Sec",
+        0.25
+      ],
+      [
+        ". Pineapple Juice",
+        1.0
+      ],
+      [
+        ". Lime Juice",
+        0.75
+      ],
+      [
+        ". Grenadine/ 1 dash Ango",
+        0.75
       ]
     ],
-    "method": "stir (absinthe rinse)",
-    "garnish": "cherry or lemon twist",
-    "tags": [
-      "spirit-forward",
-      "classic",
-      "aromatic"
-    ]
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Mint and Tribal lime Garnish",
+      "Singapore Sling",
+      "Hawaiian Sunset",
+      "1 1\u20442  ounces vodka",
+      "2 1\u20442  ounces cranberry juice",
+      "2 1\u20442  ounces orange juice",
+      "1 1\u20442  ounces soda water"
+    ],
+    "origin": "Jeff \u201cBeachbum\u201d Berry & Annene Kaye (1994)"
   },
   {
     "name": "Army & Navy",
@@ -460,488 +168,559 @@
       "citrus",
       "nutty",
       "classic"
-    ]
-  },
-  {
-    "name": "Man O' War",
-    "spec_oz": [
-      [
-        "bourbon",
-        1.5
-      ],
-      [
-        "cointreau",
-        0.75
-      ],
-      [
-        "lemon juice",
-        0.75
-      ],
-      [
-        "sweet vermouth",
-        0.5
-      ]
     ],
-    "method": "shake",
-    "garnish": "lemon twist",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
+    "origin": "Documented by Embury (1948); linked to Army & Navy Club, Washington DC"
   },
   {
-    "name": "Mexican Firing Squad",
-    "spec_oz": [
-      [
-        "blanco tequila",
-        2.0
-      ],
-      [
-        "lime juice",
-        0.75
-      ],
-      [
-        "grenadine",
-        0.75
-      ],
-      [
-        "angostura bitters",
-        0.06
-      ],
-      [
-        "soda water",
-        2.0
-      ]
-    ],
-    "method": "shake, top with soda",
-    "garnish": "lime wheel",
-    "tags": [
-      "citrus",
-      "highball"
-    ]
-  },
-  {
-    "name": "Tom Collins",
-    "spec_oz": [
-      [
-        "gin",
-        2.0
-      ],
-      [
-        "lemon juice",
-        1.0
-      ],
-      [
-        "simple syrup",
-        0.5
-      ],
-      [
-        "soda water",
-        3.0
-      ]
-    ],
-    "method": "build",
-    "garnish": "lemon wheel & cherry",
-    "tags": [
-      "citrus",
-      "highball",
-      "classic"
-    ]
-  },
-  {
-    "name": "Paloma",
-    "spec_oz": [
-      [
-        "blanco tequila",
-        2.0
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "grapefruit soda",
-        3.0
-      ],
-      [
-        "salt",
-        0.0
-      ]
-    ],
-    "method": "build (salt rim optional)",
-    "garnish": "lime wedge",
-    "tags": [
-      "highball",
-      "citrus",
-      "refreshing"
-    ]
-  },
-  {
-    "name": "Dark 'n Stormy",
-    "spec_oz": [
-      [
-        "black rum",
-        2.0
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "ginger beer",
-        4.0
-      ]
-    ],
-    "method": "build",
-    "garnish": "lime wedge",
-    "tags": [
-      "highball",
-      "spicy",
-      "classic"
-    ]
-  },
-  {
-    "name": "French 75",
-    "spec_oz": [
-      [
-        "gin",
-        1.0
-      ],
-      [
-        "lemon juice",
-        0.5
-      ],
-      [
-        "simple syrup",
-        0.5
-      ],
-      [
-        "champagne",
-        3.0
-      ]
-    ],
-    "method": "shake short, top with champagne",
-    "garnish": "lemon twist",
-    "tags": [
-      "sparkling",
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Saturn",
-    "spec_oz": [
-      [
-        "gin",
-        1.25
-      ],
-      [
-        "lemon juice",
-        0.5
-      ],
-      [
-        "passion fruit syrup",
-        0.5
-      ],
-      [
-        "orgeat",
-        0.25
-      ],
-      [
-        "velvet falernum",
-        0.25
-      ]
-    ],
-    "method": "shake",
-    "garnish": "lemon wheel (or tiki garnish)",
-    "tags": [
-      "tiki",
-      "fruity",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Mai Tai",
-    "spec_oz": [
-      [
-        "aged jamaican rum",
-        2.0
-      ],
-      [
-        "lime juice",
-        1.0
-      ],
-      [
-        "dry cura\u00e7ao",
-        0.5
-      ],
-      [
-        "orgeat",
-        0.5
-      ],
-      [
-        "simple syrup",
-        0.25
-      ]
-    ],
-    "method": "shake; serve over crushed ice",
-    "garnish": "mint bouquet & spent lime",
-    "tags": [
-      "tiki",
-      "nutty",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Scorpion",
+    "name": "Art of Choke",
     "spec_oz": [
       [
         "white rum",
         1.5
       ],
       [
-        "brandy",
+        "cynar",
+        0.75
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "demerara syrup",
+        0.5
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with mint",
+    "garnish": "mint sprig",
+    "tags": [
+      "bitter",
+      "herbal",
+      "modern"
+    ],
+    "origin": "Michael McIlroy, Milk & Honey (NYC, 2000s)"
+  },
+  {
+    "name": "Artichoke Hold",
+    "spec_oz": [
+      [
+        "Jamaican Rum",
+        0.75
+      ],
+      [
+        "Cynar",
+        0.75
+      ],
+      [
+        "St. Germain",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.75
+      ],
+      [
+        "Orgeat",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Mint Sprig Garnish"
+    ],
+    "origin": "Chris Hannah, Jewel of the South (New Orleans)"
+  },
+  {
+    "name": "Artist's Special",
+    "spec_oz": [
+      [
+        "scotch",
+        1.5
+      ],
+      [
+        "sherry (oloroso or amontillado)",
         0.75
       ],
       [
         "lemon juice",
+        0.5
+      ],
+      [
+        "grenadine",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "sherry"
+    ],
+    "origin": "The Savoy Cocktail Book (London, 1930)"
+  },
+  {
+    "name": "Banana Daiquiri",
+    "spec_oz": [
+      [
+        "white rum",
+        1.5
+      ],
+      [
+        "banana liqueur",
+        0.5
+      ],
+      [
+        "lime juice",
         1.0
+      ],
+      [
+        "simple syrup",
+        0.5
+      ]
+    ],
+    "method": "shake or blend",
+    "garnish": "banana slice",
+    "tags": [
+      "tropical",
+      "fruity",
+      "citrus"
+    ],
+    "origin": "St. Thomas, USVI (Caribbean resort bars, 1950s)"
+  },
+  {
+    "name": "Batanga",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "cola",
+        4.0
+      ],
+      [
+        "salt",
+        0.0
+      ]
+    ],
+    "method": "build (salted rim)",
+    "garnish": "lime wedge",
+    "tags": [
+      "highball",
+      "refreshing"
+    ],
+    "origin": "Don Javier Delgado Corona, La Capilla (Tequila, Mexico, 1960s)"
+  },
+  {
+    "name": "Bensonhurst",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "cynar",
+        0.25
+      ],
+      [
+        "maraschino liqueur",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "bitter"
+    ],
+    "origin": "Chad Solomon (NYC, 2006)"
+  },
+  {
+    "name": "Between the Sheets",
+    "spec_oz": [
+      [
+        "cognac",
+        1.0
+      ],
+      [
+        "light rum",
+        1.0
+      ],
+      [
+        "cointreau",
+        1.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Harry MacElhone, Harry\u2019s New York Bar (Paris, 1930)"
+  },
+  {
+    "name": "Billionaire",
+    "spec_oz": [
+      [
+        "Overproof Bourbon",
+        2.0
+      ],
+      [
+        "Simple Syrup",
+        0.5
+      ],
+      [
+        "Campari",
+        0.5
+      ],
+      [
+        "Absinthe Bitters",
+        0.25
+      ],
+      [
+        "Lemon Juice",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Dushan Zaric, Employees Only (New York City)"
+  },
+  {
+    "name": "Black Manhattan",
+    "spec_oz": [
+      [
+        "rye or bourbon",
+        2.0
+      ],
+      [
+        "averna",
+        1.0
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ],
+    "origin": "Todd Smith, Bourbon & Branch (San Francisco, 2005)"
+  },
+  {
+    "name": "Boulevardier",
+    "spec_oz": [
+      [
+        "bourbon",
+        1.5
+      ],
+      [
+        "campari",
+        1.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist or cherry",
+    "tags": [
+      "bitter",
+      "spirit-forward"
+    ],
+    "origin": "Harry McElhone, Harry\u2019s New York Bar (Paris, 1920s)"
+  },
+  {
+    "name": "Broken Plane",
+    "spec_oz": [
+      [
+        "Gin",
+        0.75
+      ],
+      [
+        "Amaro Nonino",
+        0.75
+      ],
+      [
+        "Saint Germain",
+        0.75
+      ],
+      [
+        "Lemon Juice",
+        0.75
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Modern mezcal cocktail by Joaqu\u00edn Sim\u00f3 (Death & Co, NYC)"
+  },
+  {
+    "name": "Bronx",
+    "spec_oz": [
+      [
+        "gin",
+        1.5
       ],
       [
         "orange juice",
         0.75
       ],
       [
-        "orgeat",
-        0.5
-      ]
-    ],
-    "method": "shake",
-    "garnish": "orange slice & mint",
-    "tags": [
-      "tiki",
-      "fruity",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Jungle Bird",
-    "spec_oz": [
-      [
-        "black rum",
-        1.5
-      ],
-      [
-        "campari",
-        0.75
-      ],
-      [
-        "pineapple juice",
-        1.5
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "simple syrup",
-        0.5
-      ]
-    ],
-    "method": "shake",
-    "garnish": "pineapple frond",
-    "tags": [
-      "tiki",
-      "bitter",
-      "fruity"
-    ]
-  },
-  {
-    "name": "Jet Pilot",
-    "spec_oz": [
-      [
-        "dark jamaican rum",
-        1.0
-      ],
-      [
-        "gold puerto rican rum",
-        0.75
-      ],
-      [
-        "151 demerara rum",
-        0.75
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "grapefruit juice",
-        0.5
-      ],
-      [
-        "cinnamon syrup",
-        0.5
-      ],
-      [
-        "falernum",
-        0.5
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ],
-      [
-        "absinthe",
-        0.02
-      ]
-    ],
-    "method": "blend or whip shake; crushed ice",
-    "garnish": "cinnamon stick",
-    "tags": [
-      "tiki",
-      "spicy",
-      "strong"
-    ]
-  },
-  {
-    "name": "Test Pilot",
-    "spec_oz": [
-      [
-        "light rum",
-        1.5
-      ],
-      [
-        "dark rum",
-        0.75
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "falernum",
-        0.5
-      ],
-      [
-        "cointreau",
+        "dry vermouth",
         0.25
       ],
       [
-        "angostura bitters",
-        0.02
-      ],
-      [
-        "absinthe",
-        0.02
+        "sweet vermouth",
+        0.25
       ]
     ],
-    "method": "blend or shake; crushed ice",
-    "garnish": "lime wheel",
+    "method": "shake",
+    "garnish": "orange twist",
     "tags": [
-      "tiki",
-      "spicy"
-    ]
-  },
-  {
-    "name": "Navy Grog",
-    "spec_oz": [
-      [
-        "aged jamaican rum",
-        1.0
-      ],
-      [
-        "gold puerto rican rum",
-        1.0
-      ],
-      [
-        "demerara rum",
-        1.0
-      ],
-      [
-        "lime juice",
-        0.75
-      ],
-      [
-        "white grapefruit juice",
-        0.5
-      ],
-      [
-        "honey syrup",
-        0.5
-      ],
-      [
-        "demerara syrup",
-        0.5
-      ]
-    ],
-    "method": "shake; crushed ice",
-    "garnish": "ice cone & mint",
-    "tags": [
-      "tiki",
       "citrus",
-      "rum blend"
-    ]
+      "classic"
+    ],
+    "origin": "Johnnie Solon, Waldorf-Astoria (New York City, c.1906)"
   },
   {
-    "name": "Corn 'n Oil",
+    "name": "Brooklyn",
     "spec_oz": [
       [
-        "blackstrap rum",
+        "rye",
         2.0
       ],
       [
-        "velvet falernum",
-        0.5
+        "dry vermouth",
+        1.0
       ],
       [
-        "lime juice",
+        "maraschino liqueur",
         0.25
       ],
       [
-        "angostura bitters",
-        0.04
+        "amer picon (or substitute)",
+        0.25
       ]
     ],
-    "method": "build",
-    "garnish": "lime wedge",
+    "method": "stir",
+    "garnish": "lemon twist",
     "tags": [
-      "spicy",
-      "rich",
+      "spirit-forward",
       "classic"
-    ]
+    ],
+    "origin": "Early 20th-century NYC borough cocktail (attribution unclear)"
   },
   {
-    "name": "Hotel Nacional",
+    "name": "Bushwick",
     "spec_oz": [
       [
-        "aged rum",
-        1.5
+        "rye",
+        2.0
       ],
       [
-        "pineapple juice",
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "ramazzotti",
+        0.5
+      ],
+      [
+        "maraschino liqueur",
+        0.17
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ],
+    "origin": "Phil Ward (NYC, late 2000s)"
+  },
+  {
+    "name": "Cantarito Colombiano",
+    "spec_oz": [
+      [
+        "Mezcal",
+        2.0
+      ],
+      [
+        "Aguardiente",
+        1.0
+      ],
+      [
+        "Passion fruit syrup",
+        1.0
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Orange Juice",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "Orange wedge, lime wheel",
+    "tags": [],
+    "notes": [
+      "Pinch of salt",
+      "Soda to top"
+    ],
+    "origin": "Comuna 13, Medell\u00edn, Colombia"
+  },
+  {
+    "name": "Carroll Gardens",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "amaro nardini",
+        0.5
+      ],
+      [
+        "maraschino liqueur",
+        0.17
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ],
+    "origin": "Richard Boccato, Milk & Honey (NYC, 2008)"
+  },
+  {
+    "name": "Cinnamon Girl",
+    "spec_oz": [
+      [
+        "Reposado Tequila",
+        2.0
+      ],
+      [
+        "Gold Rum",
+        0.25
+      ],
+      [
+        "Lime Juice",
         0.75
       ],
       [
-        "apricot liqueur",
+        "Cinnamon Syrup",
         0.5
       ],
       [
-        "lime juice",
-        0.5
-      ],
-      [
-        "simple syrup",
+        "Simple Syrup",
         0.25
       ]
     ],
-    "method": "shake",
-    "garnish": "lime wheel",
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "2-3 Wedges of Orange, muddled",
+      "Dash of Orange Bitters"
+    ],
+    "origin": "Brad Farran, Death & Co (New York City)"
+  },
+  {
+    "name": "Cobble Hill",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "dry vermouth",
+        0.5
+      ],
+      [
+        "ramazzotti",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir with a slice of cucumber",
+    "garnish": "cucumber slice",
     "tags": [
-      "tropical",
-      "fruity",
-      "citrus"
-    ]
+      "spirit-forward",
+      "amaro",
+      "herbal"
+    ],
+    "origin": "Richard Boccato, Milk & Honey (NYC, 2009)"
+  },
+  {
+    "name": "Cobra Clutch",
+    "spec_oz": [
+      [
+        "Tequila",
+        1.5
+      ],
+      [
+        "Mezcal",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Demerara Syrup",
+        0.5
+      ],
+      [
+        "Pineapple Juice",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Rinse absinthe"
+    ],
+    "origin": "Christian Siglin (San Diego, 2013)"
   },
   {
     "name": "Cobra's Fang",
@@ -986,13 +765,170 @@
       "fruity",
       "spicy",
       "strong"
-    ]
+    ],
+    "origin": "Don the Beachcomber (1937)"
   },
   {
-    "name": "Shrunken Skull",
+    "name": "Colonel Carpano",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 1\u20442 oz Cynar",
+      "1 1\u20442 oz Bourbon, Buffalo Trace",
+      "3\u20444 oz Sweet vermouth, Carpano Antica Formula",
+      "2 ds Peychaud's Bitters",
+      "1 twst Orange peel"
+    ],
+    "origin": "Italian vermouth-forward cocktail; contemporary origin unclear"
+  },
+  {
+    "name": "Commando Grog",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "\u00be oz lime juice (22.5 ml)",
+      "1 \u00bd oz grapefruit juice (45 ml)",
+      "\u00bd oz orgeat (15 ml)",
+      "\u00bd oz cinnamon syrup (15 ml)",
+      "\u00bd oz all-spice dram (15 ml)",
+      "\u00bd oz falernum (15 ml)",
+      "1 \u00bd oz OFTD (45 ml)",
+      "1 \u00bd oz Plantation Dark (45 ml)"
+    ],
+    "origin": "Jason Alexander, Devil's Reef (Tacoma, WA)"
+  },
+  {
+    "name": "Company Buck",
     "spec_oz": [
       [
-        "demerara rum",
+        "Ginger Syrup",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.75
+      ],
+      [
+        "Pineapple Juice",
+        1.0
+      ],
+      [
+        "Black Rum",
+        2.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 dash angostura",
+      "Club Soda to top"
+    ],
+    "origin": "Phil Ward, Death & Co (NYC, 2007)"
+  },
+  {
+    "name": "Conversion",
+    "spec_oz": [
+      [
+        ". = 7.4 ml",
+        0.25
+      ],
+      [
+        ". = 9.8 ml",
+        0.33
+      ],
+      [
+        ". = 15 ml",
+        0.5
+      ],
+      [
+        ". = 22.2 ml",
+        0.75
+      ],
+      [
+        ". = 29.6 ml",
+        1.0
+      ],
+      [
+        ". = 44.4 ml",
+        1.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Unknown"
+  },
+  {
+    "name": "Corn 'n Oil",
+    "spec_oz": [
+      [
+        "blackstrap rum",
+        2.0
+      ],
+      [
+        "velvet falernum",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.04
+      ]
+    ],
+    "method": "build",
+    "garnish": "lime wedge",
+    "tags": [
+      "spicy",
+      "rich",
+      "classic"
+    ],
+    "origin": "Barbados planters\u2019 drink"
+  },
+  {
+    "name": "Corpse Reviver #2",
+    "spec_oz": [
+      [
+        "gin",
+        0.75
+      ],
+      [
+        "cointreau",
+        0.75
+      ],
+      [
+        "lillet blanc or blanc vermouth",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "shake (absinthe rinse optional)",
+    "garnish": "no garnish",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Harry Craddock, Savoy (London, 1930)"
+  },
+  {
+    "name": "Daiquiri",
+    "spec_oz": [
+      [
+        "white rum",
         2.0
       ],
       [
@@ -1000,16 +936,2313 @@
         1.0
       ],
       [
+        "simple syrup",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish or lime wheel",
+    "tags": [
+      "citrus",
+      "sour",
+      "classic"
+    ],
+    "origin": "Jennings Cox (Daiquir\u00ed, Cuba, 1890s)"
+  },
+  {
+    "name": "Dark 'n Stormy",
+    "spec_oz": [
+      [
+        "black rum",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "ginger beer",
+        4.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "lime wedge",
+    "tags": [
+      "highball",
+      "spicy",
+      "classic"
+    ],
+    "origin": "Gosling Brothers Ltd., Bermuda (post-WWI)"
+  },
+  {
+    "name": "Death in the Afternoon",
+    "spec_oz": [
+      [
+        "Absinthe",
+        1.0
+      ],
+      [
+        "Champagne",
+        3.0
+      ],
+      [
+        "Lemon Juice",
+        0.25
+      ],
+      [
+        "Simple Syrup",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Ernest Hemingway (1935)"
+  },
+  {
+    "name": "Division Bell",
+    "spec_oz": [
+      [
+        "mezcal",
+        0.75
+      ],
+      [
+        "aperol",
+        0.75
+      ],
+      [
+        "maraschino liqueur",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "grapefruit twist",
+    "tags": [
+      "modern-classic",
+      "smoky",
+      "citrus"
+    ],
+    "origin": "Phil Ward, Mayahuel (NYC, 2009)"
+  },
+  {
+    "name": "Eastern Standard",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.75
+      ],
+      [
+        "cucumber slices",
+        0.0
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with cucumber & mint",
+    "garnish": "cucumber slice",
+    "tags": [
+      "citrus",
+      "herbal",
+      "refreshing"
+    ],
+    "origin": "Eastern Standard Bar (Boston, MA, 2005)"
+  },
+  {
+    "name": "Eastside",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "simple syrup",
+        0.75
+      ],
+      [
+        "cucumber slices",
+        0.0
+      ],
+      [
+        "mint leaves",
+        0.0
+      ]
+    ],
+    "method": "shake with cucumber & mint",
+    "garnish": "cucumber slice & mint",
+    "tags": [
+      "citrus",
+      "herbal",
+      "refreshing"
+    ],
+    "origin": "Modern gin cucumber-mint sour; Pegu Club (NYC, 2000s)"
+  },
+  {
+    "name": "Eeyore's Requiem",
+    "spec_oz": [
+      [
+        "Campari",
+        1.5
+      ],
+      [
+        "Blanc Vermouth",
+        1.0
+      ],
+      [
+        "Gin",
+        0.5
+      ],
+      [
+        "Cynar",
+        0.25
+      ],
+      [
+        "Fernet-Branca",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "2 dashes Orange Bitters",
+      "Orange peel twist"
+    ],
+    "origin": "Toby Maloney, The Violet Hour (Chicago, 2008)"
+  },
+  {
+    "name": "El Presidente",
+    "spec_oz": [
+      [
+        "aged rum",
+        1.5
+      ],
+      [
+        "dry vermouth",
+        0.75
+      ],
+      [
+        "dry cura\u00e7ao",
+        0.5
+      ],
+      [
         "grenadine",
+        0.1
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "cuban-classic",
+      "aromatic"
+    ],
+    "origin": "Havana (Eddie Woelke attribution, debated)"
+  },
+  {
+    "name": "Fall Back",
+    "spec_oz": [
+      [
+        "rye",
+        1.0
+      ],
+      [
+        "applejack",
+        1.0
+      ],
+      [
+        "amaro nonino",
+        0.5
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "peychaud's bitters",
+        0.06
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "spirit-forward",
+      "amaro"
+    ],
+    "origin": "Milk & Honey (NYC, Petraske-era)"
+  },
+  {
+    "name": "Fashism Daquiri",
+    "spec_oz": [
+      [
+        "White Rum",
+        2.0
+      ],
+      [
+        "Fassionola",
+        1.0
+      ],
+      [
+        "Lime Juice",
+        0.75
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Kevin Ryan (Arlington, VA, 2022)"
+  },
+  {
+    "name": "Fassionola",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "2 cups Passion Fruit Juice",
+      "3 cups Sugar",
+      ".25 cup Apple Juice",
+      ".25 cup Banana Strawberry Juice",
+      ".25 cup Guava Juice",
+      ".25 cup Orange Juice",
+      ".25 cup Pineapple Juice",
+      "Juice of 1 Lime",
+      ".5 Tsp Rosewater",
+      ".5 Tsp Orange Blossom Water"
+    ],
+    "origin": "Tiki syrup with disputed origins; popularized by Don the Beachcomber (1930s)"
+  },
+  {
+    "name": "Ferroviario",
+    "spec_oz": [
+      [
+        "Fernet",
+        0.5
+      ],
+      [
+        "Sweet Vermouth",
+        2.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Soda to top"
+    ],
+    "origin": "Argentina cantina/aperitivo tradition (20th c.)"
+  },
+  {
+    "name": "Flor de Jerez",
+    "spec_oz": [
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "cane syrup",
+        0.5
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "apricot liqueur",
+        0.25
+      ],
+      [
+        "amontillado sherry",
+        1.5
+      ],
+      [
+        "jamaican rum (appleton 8)",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "",
+    "tags": [
+      "sherry",
+      "citrus",
+      "tropical"
+    ],
+    "notes": [
+      "Video variant sometimes shows lime; spec uses lemon."
+    ],
+    "origin": "Joaqu\u00edn Sim\u00f3 (Death & Co, NYC)"
+  },
+  {
+    "name": "French 75",
+    "spec_oz": [
+      [
+        "gin",
+        1.0
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.5
+      ],
+      [
+        "champagne",
+        3.0
+      ]
+    ],
+    "method": "shake short, top with champagne",
+    "garnish": "lemon twist",
+    "tags": [
+      "sparkling",
+      "citrus",
+      "classic"
+    ],
+    "origin": "Harry\u2019s New York Bar (Paris, WWI era; contested)"
+  },
+  {
+    "name": "Get Lucky",
+    "spec_oz": [
+      [
+        "honey syrup",
+        0.25
+      ],
+      [
+        "orgeat",
+        0.25
+      ],
+      [
+        "ginger syrup",
+        0.25
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "White Rum",
+        2.0
+      ]
+    ],
+    "method": "",
+    "garnish": "with Peychaud's Bitters",
+    "tags": [],
+    "notes": [
+      "3 muddled blackberries"
+    ],
+    "origin": "Scott Teague, Death & Co (New York City, c.2013)"
+  },
+  {
+    "name": "Gold Rush",
+    "spec_oz": [
+      [
+        "bourbon",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "honey syrup",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "modern-classic",
+      "citrus"
+    ],
+    "origin": "Sam Ross, Milk & Honey (NYC, early 2000s)"
+  },
+  {
+    "name": "Golden Beautiful",
+    "spec_oz": [
+      [
+        "Reposado Tequila",
+        2.0
+      ],
+      [
+        "Campari",
+        0.25
+      ],
+      [
+        "Lime Juice",
+        0.75
+      ],
+      [
+        "Vanilla Syrup",
+        0.5
+      ],
+      [
+        "Passion Fruit Syrup",
+        0.25
+      ],
+      [
+        "Club Soda",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Grated Lime Zest Garnish"
+    ],
+    "origin": "Thomas Waugh (2009)"
+  },
+  {
+    "name": "Greenpoint",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "yellow chartreuse",
+        0.5
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "spirit-forward",
+      "modern-classic"
+    ],
+    "origin": "Michael McIlroy, Milk & Honey (NYC, 2006)"
+  },
+  {
+    "name": "Greenwood",
+    "spec_oz": [
+      [
+        "Bourbon",
+        2.0
+      ],
+      [
+        "Dry Vermouth",
+        0.75
+      ],
+      [
+        "Fernet Branca",
+        0.25
+      ],
+      [
+        "Maraschino Liqueur",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Tribute to Greenwood District, Tulsa, OK"
+  },
+  {
+    "name": "Grenadine",
+    "spec_oz": [
+      [
+        "pomegranate molasses",
+        0.167
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "3 cups white sugar",
+      "2 cups 100% pomegranate juice",
+      "1/2 tsp rose water",
+      "*Heat and stir, add rosewater last"
+    ],
+    "origin": "Pomegranate syrup used in cocktails since late 19th century; French origin"
+  },
+  {
+    "name": "Grog",
+    "spec_oz": [
+      [
+        "Dark Rum",
+        2.0
+      ],
+      [
+        "Lemon Juice",
+        1.0
+      ],
+      [
+        "Pineapple Juice",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1oz Passionfruit Syrup",
+      "2 Dashes Angostura Bitters",
+      "Mint Sprig, Cherry Garnish"
+    ],
+    "origin": "British Royal Navy (Admiral Edward Vernon, mid-18th c.)"
+  },
+  {
+    "name": "Growing Old",
+    "spec_oz": [
+      [
+        "Cynar",
+        2.0
+      ],
+      [
+        "Rye",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 pinch of salt",
+      "5 lemon peels, expressed, stir with",
+      "Absinthe Rinse",
+      "Lemon peel twist"
+    ],
+    "origin": "Maksym Pazuniak, Cure (New Orleans, 2009), Rogue Cocktails (2010)"
+  },
+  {
+    "name": "Hanky Panky",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        1.5
+      ],
+      [
+        "fernet branca",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "aromatic",
+      "classic",
+      "bitter"
+    ],
+    "origin": "Ada Coleman, Savoy Hotel (London, c.1903)"
+  },
+  {
+    "name": "Hawaiian Sunset",
+    "spec_oz": [
+      [
+        "Vodka",
+        1.5
+      ],
+      [
+        "Cranberry Juice",
+        2.5
+      ],
+      [
+        "Orange Juice",
+        2.5
+      ],
+      [
+        "Soda Water",
+        1.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Aku Aku, Stardust Hotel (Las Vegas, 1960s)"
+  },
+  {
+    "name": "Hotel Nacional",
+    "spec_oz": [
+      [
+        "aged rum",
+        1.5
+      ],
+      [
+        "pineapple juice",
+        0.75
+      ],
+      [
+        "apricot liqueur",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lime wheel",
+    "tags": [
+      "tropical",
+      "fruity",
+      "citrus"
+    ],
+    "origin": "Hotel Nacional de Cuba (1930s)"
+  },
+  {
+    "name": "Hurricane",
+    "spec_oz": [
+      [
+        "aged rum",
+        2.0
+      ],
+      [
+        "white rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "passion fruit syrup",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "orange slice & cherry",
+    "tags": [
+      "tiki",
+      "fruity",
+      "citrus"
+    ],
+    "origin": "Pat O\u2019Brien\u2019s (New Orleans, 1940s)"
+  },
+  {
+    "name": "In Cold Blood",
+    "spec_oz": [
+      [
+        "Rye whiskey",
+        1.0
+      ],
+      [
+        "Sweet Vermouth",
+        1.0
+      ],
+      [
+        "Cynar",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Andrew Volk, Portland Hunt & Alpine Club (Portland, 2016)"
+  },
+  {
+    "name": "Italian Gentleman",
+    "spec_oz": [
+      [
+        "Bourbon",
+        1.5
+      ],
+      [
+        "Campari",
+        1.5
+      ],
+      [
+        "Simple Syrup",
+        0.25
+      ],
+      [
+        "Lemon Juice",
+        0.75
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Dash of Orange Bitters"
+    ],
+    "origin": "John McCarthy & Carey Jones (Food & Wine, 2014)"
+  },
+  {
+    "name": "Jet Pilot",
+    "spec_oz": [
+      [
+        "Overproof Jamaican Rum",
+        1.0
+      ],
+      [
+        "Overproof Demerara Rum",
+        0.75
+      ],
+      [
+        "Gold rum",
+        0.75
+      ],
+      [
+        "Grapefruit Juice",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.75
+      ],
+      [
+        "Cinnamon Syrup",
+        0.5
+      ],
+      [
+        "Falernum",
+        0.5
+      ],
+      [
+        "White Rum",
+        1.5
+      ],
+      [
+        "Apricot Liqueur",
+        0.5
+      ],
+      [
+        "Pineapple Juice",
+        1.0
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Simple Syrup",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "Lime Wheel",
+    "tags": [],
+    "notes": [
+      "1 dash Absinthe",
+      "Hotel Nacional"
+    ],
+    "origin": "Don the Beachcomber lineage (1950s; Mai-Kai 1956)"
+  },
+  {
+    "name": "Joy Division",
+    "spec_oz": [
+      [
+        ". Gin",
+        2.0
+      ],
+      [
+        ". Dry Vermouth",
+        1.0
+      ],
+      [
+        ". Cointreau",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "3 Dashes Absinthe"
+    ],
+    "origin": "Phil Ward, Death & Co (NYC, 2008)"
+  },
+  {
+    "name": "Julius Orange",
+    "spec_oz": [
+      [
+        "Vanilla Syrup",
+        0.167
+      ]
+    ],
+    "method": "",
+    "garnish": "Nutmeg\u201d",
+    "tags": [],
+    "notes": [
+      "2 Ounces Dry Orange Cura\u00e7ao",
+      ".5 Ounce Cruzan Single-Barrel Rum",
+      ".5 Ounce Lemon Juice",
+      ".5 Ounce Heavy Cream",
+      "1 Dash House Orange Bitters"
+    ],
+    "origin": "Milk & Honey (NYC, Petraske-era); likely modern citrus cocktail"
+  },
+  {
+    "name": "Jungle Bird",
+    "spec_oz": [
+      [
+        "black rum",
+        1.5
+      ],
+      [
+        "campari",
+        0.75
+      ],
+      [
+        "pineapple juice",
+        1.5
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "pineapple frond",
+    "tags": [
+      "tiki",
+      "bitter",
+      "fruity"
+    ],
+    "origin": "Kuala Lumpur Hilton (1970s)"
+  },
+  {
+    "name": "Koko B Ware",
+    "spec_oz": [
+      [
+        "Heavy Cream",
+        0.5
+      ],
+      [
+        "Vanilla Syrup",
+        0.167
+      ],
+      [
+        "Orgeat",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Aged Rhum Agricole",
+        0.25
+      ],
+      [
+        "Gold Rum",
+        1.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "2 dashes Angostura Bitters"
+    ],
+    "origin": "Thomas Waugh, Death & Co (NYC, 2009)"
+  },
+  {
+    "name": "KR Rum Punch",
+    "spec_oz": [
+      [
+        "Dark rum",
+        2.0
+      ],
+      [
+        "Aperol",
+        1.0
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Simple Syrup",
+        0.5
+      ],
+      [
+        "Pineapple Juice",
+        1.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Orange Slice or Pineapple Wedge"
+    ],
+    "origin": "Kevin Ryan (Arlington, VA, 2022)"
+  },
+  {
+    "name": "La Louisiane",
+    "spec_oz": [
+      [
+        "Rye",
+        1.5
+      ],
+      [
+        "Sweet Vermouth",
+        0.75
+      ],
+      [
+        "B\u00e9n\u00e9dictine DOM",
+        0.75
+      ],
+      [
+        "Dry Gin",
+        1.5
+      ],
+      [
+        "Campari",
+        0.75
+      ],
+      [
+        "Sweet Vermouth",
+        0.75
+      ]
+    ],
+    "method": "",
+    "garnish": "Cocktail Cherry",
+    "tags": [],
+    "notes": [
+      "4 dashes Angostura Bitters",
+      "4 dashes Peychaud's Bitters",
+      "Absinte Rinse",
+      "Negroni"
+    ],
+    "origin": "Restaurant de la Louisiane (New Orleans, 1890s)"
+  },
+  {
+    "name": "Little Italy",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "cynar",
+        0.75
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "bitter"
+    ],
+    "origin": "Audrey Saunders, Pegu Club (NYC, 2005)"
+  },
+  {
+    "name": "Lorikeet",
+    "spec_oz": [
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "pineapple juice",
+        1.0
+      ],
+      [
+        "cinnamon syrup",
+        0.25
+      ],
+      [
+        "banana liqueur",
+        0.5
+      ],
+      [
+        "rye whiskey",
+        2.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "4 dashes Angostura bitters",
+      "6 dashes Peychaud\u2019s bitters"
+    ],
+    "origin": "Shannon Mustipher, Glady's (Brooklyn, NY)"
+  },
+  {
+    "name": "Los Galgos Panky",
+    "spec_oz": [
+      [
+        "Cynar",
+        2.0
+      ],
+      [
+        "Aperol",
+        1.0
+      ],
+      [
+        "Vermouth Bianco",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Soda to top",
+      "Orange peel twist"
+    ],
+    "origin": "Los Galgos Cafe Notable (Buenos Aires, Argentina)"
+  },
+  {
+    "name": "Lower East Side",
+    "spec_oz": [
+      [
+        "Spirit (varies)",
+        2.0
+      ],
+      [
+        "Vermouth (varies)",
+        0.75
+      ],
+      [
+        "Modifier (varies)",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Milk & Honey (NYC) modern classic"
+  },
+  {
+    "name": "Lucky Stone",
+    "spec_oz": [
+      [
+        "Irish Whiskey",
+        1.5
+      ],
+      [
+        "Amontillado Sherry",
+        1.0
+      ],
+      [
+        "Apricot Liqueur",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "2 dashes Peychaud's Bitters",
+      "Lemon zest",
+      "Cocktail cherry for garnish"
+    ],
+    "origin": "Anders Erickson (Modern)"
+  },
+  {
+    "name": "Macondo",
+    "spec_oz": [
+      [
+        "Tequila reposada",
+        2.0
+      ],
+      [
+        "triple sec",
+        1.0
+      ],
+      [
+        "Peach syrup",
+        1.0
+      ],
+      [
+        "lemon",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1.5 tamarindo"
+    ],
+    "origin": "Colombian-inspired cocktail; name references Gabriel Garc\u00eda M\u00e1rquez's fictional town"
+  },
+  {
+    "name": "Mad Max",
+    "spec_oz": [
+      [
+        "Rye",
+        1.0
+      ],
+      [
+        "Cynar",
+        1.0
+      ],
+      [
+        "Aperol",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Orange peel twist"
+    ],
+    "origin": "Modern craft cocktail; attribution unclear (popular in contemporary bar menus)"
+  },
+  {
+    "name": "Mai Tai",
+    "spec_oz": [
+      [
+        "aged jamaican rum",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "dry cura\u00e7ao",
+        0.5
+      ],
+      [
+        "orgeat",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.25
+      ]
+    ],
+    "method": "shake; serve over crushed ice",
+    "garnish": "mint bouquet & spent lime",
+    "tags": [
+      "tiki",
+      "nutty",
+      "citrus"
+    ],
+    "origin": "Trader Vic (Oakland, 1944)"
+  },
+  {
+    "name": "Man O' War",
+    "spec_oz": [
+      [
+        "bourbon",
+        1.5
+      ],
+      [
+        "cointreau",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Named for the racehorse (1920s; attribution unclear)"
+  },
+  {
+    "name": "Man-about-Town",
+    "spec_oz": [
+      [
+        "Rye",
+        2.0
+      ],
+      [
+        "Cynar",
+        1.0
+      ],
+      [
+        "Sweet Vermouth",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Bitter whiskey cocktail from Jim Meehan, PDT (NYC)"
+  },
+  {
+    "name": "Manhattan",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "classic"
+    ],
+    "origin": "Manhattan Club (New York, 1880s attribution)"
+  },
+  {
+    "name": "Martini",
+    "spec_oz": [
+      [
+        "gin",
+        2.5
+      ],
+      [
+        "dry vermouth",
+        0.5
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist or olive",
+    "tags": [
+      "spirit-forward",
+      "classic",
+      "aromatic"
+    ],
+    "origin": "Contested (late 19th\u2013early 20th c.)"
+  },
+  {
+    "name": "Mexican Firing Squad",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.75
+      ],
+      [
+        "angostura bitters",
+        0.06
+      ],
+      [
+        "soda water",
+        2.0
+      ]
+    ],
+    "method": "shake, top with soda",
+    "garnish": "lime wheel",
+    "tags": [
+      "citrus",
+      "highball"
+    ],
+    "origin": "La Cucaracha Bar, Mexico City (1930s)"
+  },
+  {
+    "name": "Mezcal Margarita",
+    "spec_oz": [
+      [
+        "mezcal",
+        2.0
+      ],
+      [
+        "lime juice",
+        1.0
+      ],
+      [
+        "triple sec",
+        0.75
+      ],
+      [
+        "agave syrup",
+        0.25
+      ]
+    ],
+    "method": "shake (salt rim optional)",
+    "garnish": "lime wheel",
+    "tags": [
+      "citrus",
+      "smoky"
+    ],
+    "origin": "Modern Margarita variation (attribution unclear)"
+  },
+  {
+    "name": "Millionaire",
+    "spec_oz": [
+      [
+        "dark jamaican rum (meyers)",
+        1.5
+      ],
+      [
+        "sloe gin",
+        0.75
+      ],
+      [
+        "apricot liqueur",
+        0.75
+      ],
+      [
+        "lime juice",
+        1.0
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lime wheel (optional)",
+    "tags": [
+      "classic",
+      "citrus",
+      "tropical"
+    ],
+    "origin": "Trader Vic-era recipe family (20th c.)"
+  },
+  {
+    "name": "Navy Grog",
+    "spec_oz": [
+      [
+        "aged jamaican rum",
+        1.0
+      ],
+      [
+        "gold puerto rican rum",
+        1.0
+      ],
+      [
+        "demerara rum",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "white grapefruit juice",
+        0.5
+      ],
+      [
+        "honey syrup",
+        0.5
+      ],
+      [
+        "demerara syrup",
         0.5
       ]
     ],
     "method": "shake; crushed ice",
-    "garnish": "lime wheel",
+    "garnish": "ice cone & mint",
     "tags": [
       "tiki",
+      "citrus",
+      "rum blend"
+    ],
+    "origin": "Donn Beach, Don the Beachcomber (1940s)"
+  },
+  {
+    "name": "Negroni",
+    "spec_oz": [
+      [
+        "gin",
+        1.0
+      ],
+      [
+        "campari",
+        1.0
+      ],
+      [
+        "sweet vermouth",
+        1.0
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "bitter",
+      "spirit-forward",
+      "classic"
+    ],
+    "origin": "Count Camillo Negroni (Florence, c.1919)"
+  },
+  {
+    "name": "Oaxaca Old Fashioned",
+    "spec_oz": [
+      [
+        "reposado tequila",
+        1.5
+      ],
+      [
+        "mezcal",
+        0.5
+      ],
+      [
+        "agave syrup",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist",
+    "tags": [
+      "smoky",
+      "spirit-forward",
+      "modern-classic"
+    ],
+    "origin": "Phil Ward, Death & Co (NYC, 2007)"
+  },
+  {
+    "name": "Old Fashioned",
+    "spec_oz": [
+      [
+        "bourbon or rye",
+        2.0
+      ],
+      [
+        "simple syrup",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "orange twist (optional cherry)",
+    "tags": [
+      "spirit-forward",
+      "bitter",
+      "classic"
+    ],
+    "origin": "Pre-Prohibition American bar tradition (19th c.)"
+  },
+  {
+    "name": "Old Pal",
+    "spec_oz": [
+      [
+        "rye",
+        1.5
+      ],
+      [
+        "campari",
+        0.75
+      ],
+      [
+        "dry vermouth",
+        0.75
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist",
+    "tags": [
+      "bitter",
+      "classic"
+    ],
+    "origin": "Harry McElhone, Harry\u2019s New York Bar (Paris, 1920s)"
+  },
+  {
+    "name": "Old Paloma (Ruby Red variant)",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "ruby red grapefruit juice",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.25
+      ],
+      [
+        "soda water",
+        1.0
+      ],
+      [
+        "salt",
+        0.0
+      ]
+    ],
+    "method": "build (salt rim optional)",
+    "garnish": "grapefruit wedge",
+    "tags": [
+      "refreshing",
+      "citrus",
+      "highball"
+    ],
+    "origin": "Modern Paloma riff (attribution unclear)"
+  },
+  {
+    "name": "Orgeat",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Ziyad Almond Syrup"
+    ],
+    "origin": "Almond syrup with Mediterranean origins, integral to tiki drinks"
+  },
+  {
+    "name": "Paloma",
+    "spec_oz": [
+      [
+        "blanco tequila",
+        2.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "grapefruit soda",
+        3.0
+      ],
+      [
+        "salt",
+        0.0
+      ]
+    ],
+    "method": "build (salt rim optional)",
+    "garnish": "lime wedge",
+    "tags": [
+      "highball",
+      "citrus",
+      "refreshing"
+    ],
+    "origin": "Popular in Mexico (attribution unclear)"
+  },
+  {
+    "name": "Pan American",
+    "spec_oz": [
+      [
+        "bar sugar",
+        0.167
+      ],
+      [
+        "Pa-Pi-A syrup",
+        0.167
+      ],
+      [
+        "Ronrico Gold Label Rum - Bacardi 8 (30 ml)",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "\u00bd oz lime juice (15 ml)",
+      "\u00bd oz of pineapple juice (15 ml)",
+      "\u00bd oz Ronrico Red Label Rum -",
+      "Dr Bird Pineapple (15 ml) \u00bd oz Ronrico White Label Rum -",
+      "Hamilton White Stache (15 ml) \u2248",
+      "Dash of Drambuie  = 5 drops)"
+    ],
+    "origin": "Charles H. Baker Jr., The Gentleman's Companion (1939)"
+  },
+  {
+    "name": "Pan American Clipper",
+    "spec_oz": [
+      [
+        "apple brandy",
+        1.5
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.5
+      ],
+      [
+        "absinthe",
+        0.02
+      ]
+    ],
+    "method": "shake (absinthe rinse optional)",
+    "garnish": "no garnish",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Charles H. Baker Jr. (1939)"
+  },
+  {
+    "name": "Paper Plane",
+    "spec_oz": [
+      [
+        "bourbon",
+        0.75
+      ],
+      [
+        "aperol",
+        0.75
+      ],
+      [
+        "amaro nonino",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "modern-classic",
+      "citrus",
+      "bitter"
+    ],
+    "origin": "Sam Ross, The Violet Hour (Chicago, 2007)"
+  },
+  {
+    "name": "Park Slope",
+    "spec_oz": [
+      [
+        "Rye",
+        2.0
+      ],
+      [
+        "Sweet Vermouth",
+        0.75
+      ],
+      [
+        "Amaro Nonino",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 dash Orange Bitters"
+    ],
+    "origin": "Brooklyn neighborhood\u2013named cocktail by Giuseppe Gonzalez (NYC, c.2010s)"
+  },
+  {
+    "name": "Penecillin",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "candied ginger",
+    "tags": [],
+    "notes": [
+      "2 ounces blended scotch",
+      "3/4 ounce lemon juice, freshly squeezed",
+      "3/4 ounce honey-ginger syrup*",
+      "1/4 ounce Islay single malt scotch"
+    ],
+    "origin": "Sam Ross, Milk & Honey (NYC, 2005)"
+  },
+  {
+    "name": "Penicillin",
+    "spec_oz": [
+      [
+        "blended scotch",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "honey-ginger syrup",
+        0.75
+      ],
+      [
+        "islay scotch",
+        0.25
+      ]
+    ],
+    "method": "shake; float islay",
+    "garnish": "candied ginger (optional)",
+    "tags": [
+      "modern-classic",
+      "smoky",
       "citrus"
-    ]
+    ],
+    "origin": "Sam Ross, Milk & Honey (NYC, 2005)"
+  },
+  {
+    "name": "Perfect Manhattan",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        0.5
+      ],
+      [
+        "dry vermouth",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry or lemon twist",
+    "tags": [
+      "spirit-forward",
+      "classic"
+    ],
+    "origin": "Manhattan Club lineage (New York)"
+  },
+  {
+    "name": "Pimm's Cup",
+    "spec_oz": [
+      [
+        "pimm's no. 1",
+        1.5
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "ginger ale",
+        3.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "cucumber, mint, citrus",
+    "tags": [
+      "refreshing",
+      "herbal",
+      "highball"
+    ],
+    "origin": "James Pimm (London, 1840s)"
+  },
+  {
+    "name": "Pimm\u2019s Cup",
+    "spec_oz": [
+      [
+        ". Pimm\u2019s No.1",
+        2.0
+      ],
+      [
+        ". lemon juice",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "3-4 oz. Ginger Ale",
+      "Cucumber, 2 strawberries, & mint for garnish"
+    ],
+    "origin": "James Pimm (London, 1840s)"
+  },
+  {
+    "name": "Pressure Drop",
+    "spec_oz": [
+      [
+        "Old Tom Gin",
+        1.5
+      ],
+      [
+        "Meletti Amaro",
+        1.0
+      ],
+      [
+        "Dry Vermouth",
+        0.5
+      ],
+      [
+        ". Clear Creek Pear Brandy",
+        0.167
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 dash Angostura Bitters"
+    ],
+    "origin": "Thomas Waugh, Death & Co (NYC, 2009)"
+  },
+  {
+    "name": "Privateer",
+    "spec_oz": [
+      [
+        "Tequila",
+        1.5
+      ],
+      [
+        "Passion Fruit Syrup",
+        0.75
+      ],
+      [
+        "Pineapple Juice",
+        0.75
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Pinch of Salt"
+    ],
+    "origin": "Chris Vanderginst, Mutiny Bar (Detroit, MI)"
+  },
+  {
+    "name": "Prize Fighter No. 1",
+    "spec_oz": [
+      [
+        "Fernet-Branca",
+        1.0
+      ],
+      [
+        "Carpano Antica",
+        1.0
+      ],
+      [
+        "Simple Syrup",
+        0.5
+      ],
+      [
+        "Lemon Juice",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "6-8 Mint Leaves",
+      "3 Lemon Wedges",
+      "Mint Sprig Garnish"
+    ],
+    "origin": "Nicholas Jarrett, Clover Club (Brooklyn, 2009)"
+  },
+  {
+    "name": "QPH Super Cocktail",
+    "spec_oz": [
+      [
+        "Rum",
+        1.5
+      ],
+      [
+        "Sweet Vermouth",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Grenadine",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "2 dashes Angostura bitters"
+    ],
+    "origin": "Queen's Park Hotel (Port of Spain, Trinidad), documented by Owen Rutter (1932)"
+  },
+  {
+    "name": "Queens",
+    "spec_oz": [
+      [
+        "gin",
+        1.5
+      ],
+      [
+        "pineapple juice",
+        1.0
+      ],
+      [
+        "dry vermouth",
+        0.25
+      ],
+      [
+        "sweet vermouth",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "no garnish",
+    "tags": [
+      "fruity",
+      "classic"
+    ],
+    "origin": "Early 20th-century borough cocktail, documented in 1930 Savoy Cocktail Book"
+  },
+  {
+    "name": "Rabo de Galo",
+    "spec_oz": [
+      [
+        "cacha\u00e7a",
+        2.0
+      ],
+      [
+        "cynar (or italian amaro)",
+        0.75
+      ]
+    ],
+    "method": "stir or build over ice",
+    "garnish": "orange twist",
+    "tags": [
+      "amaro",
+      "spirit-forward",
+      "bitter"
+    ],
+    "origin": "S\u00e3o Paulo, Brazil (Cinzano promotion, 1950s)"
+  },
+  {
+    "name": "Rabo De Galo",
+    "spec_oz": [
+      [
+        "Cacha\u00e7a",
+        1.5
+      ],
+      [
+        ". Sweet Vermouth",
+        0.5
+      ],
+      [
+        "Cynar",
+        0.25
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Expressed lime, garnish"
+    ],
+    "origin": "S\u00e3o Paulo, Brazil (Cinzano promotion, 1950s)"
+  },
+  {
+    "name": "Ramos Gin Fizz",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "simple syrup",
+        0.5
+      ],
+      [
+        "heavy cream",
+        1.0
+      ],
+      [
+        "egg white",
+        1.0
+      ],
+      [
+        "orange flower water",
+        0.02
+      ],
+      [
+        "soda water",
+        2.0
+      ]
+    ],
+    "method": "dry shake, wet shake, top with soda",
+    "garnish": "no garnish",
+    "tags": [
+      "fizz",
+      "creamy",
+      "classic"
+    ],
+    "origin": "Henry C. Ramos (New Orleans, 1888)"
+  },
+  {
+    "name": "Red Hook",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "punt e mes",
+        0.5
+      ],
+      [
+        "maraschino liqueur",
+        0.25
+      ]
+    ],
+    "method": "stir",
+    "garnish": "cherry",
+    "tags": [
+      "spirit-forward",
+      "modern-classic"
+    ],
+    "origin": "Enzo Errico, Milk & Honey (NYC, 2005)"
+  },
+  {
+    "name": "Remember the Maine",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "sweet vermouth",
+        0.75
+      ],
+      [
+        "cherry liqueur",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir (absinthe rinse)",
+    "garnish": "cherry or lemon twist",
+    "tags": [
+      "spirit-forward",
+      "classic",
+      "aromatic"
+    ],
+    "origin": "Charles H. Baker Jr. (Havana, 1933; pub. 1939)"
+  },
+  {
+    "name": "Ruby Red Paloma",
+    "spec_oz": [
+      [
+        "Tequila",
+        2.0
+      ],
+      [
+        "Ruby red grapefruit juice",
+        2.0
+      ],
+      [
+        "Agave syrup",
+        0.5
+      ],
+      [
+        "Fresh lime juice",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Club soda",
+      "Thai basil sprig and grapefruit wedge for garnish"
+    ],
+    "origin": "Modern Paloma riff (attribution unclear)"
+  },
+  {
+    "name": "Saturn",
+    "spec_oz": [
+      [
+        "gin",
+        1.25
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "passion fruit syrup",
+        0.5
+      ],
+      [
+        "orgeat",
+        0.25
+      ],
+      [
+        "velvet falernum",
+        0.25
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon wheel (or tiki garnish)",
+    "tags": [
+      "tiki",
+      "fruity",
+      "citrus"
+    ],
+    "origin": "J. \u201cPopo\u201d Galsini (1967)"
+  },
+  {
+    "name": "Sazerac",
+    "spec_oz": [
+      [
+        "Rye Whiskey",
+        1.5
+      ],
+      [
+        "Cognac",
+        0.5
+      ],
+      [
+        "semi-rich simple syrup",
+        0.25
+      ],
+      [
+        "Soda Water",
+        3.0
+      ],
+      [
+        "Campari",
+        1.5
+      ],
+      [
+        "Sweet Vermouth",
+        1.5
+      ]
+    ],
+    "method": "",
+    "garnish": "Lemon Peel",
+    "tags": [],
+    "notes": [
+      "Absinthe Rinse",
+      "3 dashes Peychaud's Bitters",
+      "1 dash Angostura Bitters",
+      "Americano"
+    ],
+    "origin": "Sazerac Coffee House / Antoine A. Peychaud (New Orleans, 19th c.)"
+  },
+  {
+    "name": "Scofflaw",
+    "spec_oz": [
+      [
+        "rye",
+        1.5
+      ],
+      [
+        "dry vermouth",
+        1.0
+      ],
+      [
+        "lemon juice",
+        0.75
+      ],
+      [
+        "grenadine",
+        0.5
+      ],
+      [
+        "orange bitters",
+        0.02
+      ]
+    ],
+    "method": "shake",
+    "garnish": "lemon twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Harry\u2019s New York Bar (Paris, 1924)"
+  },
+  {
+    "name": "Scorpion",
+    "spec_oz": [
+      [
+        "Cognac",
+        1.0
+      ],
+      [
+        "White Rum",
+        1.0
+      ],
+      [
+        "Orange Juice",
+        1.0
+      ],
+      [
+        "Lemon Juice",
+        0.5
+      ],
+      [
+        "Orgeat",
+        0.25
+      ],
+      [
+        "Simple Syrup",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Trader Vic (1940s)"
   },
   {
     "name": "Seabreeze Cooler",
@@ -1041,7 +3274,57 @@
       "highball",
       "fruity",
       "classic"
-    ]
+    ],
+    "origin": "Pre-Prohibition lineage (attribution unclear)"
+  },
+  {
+    "name": "Shrunken Skull",
+    "spec_oz": [
+      [
+        "Demerara Rum",
+        1.0
+      ],
+      [
+        "Gold Rum",
+        1.0
+      ],
+      [
+        "Lime Juice",
+        1.0
+      ],
+      [
+        "Grenadine",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Don the Beachcomber (1930s)"
+  },
+  {
+    "name": "Sidecar",
+    "spec_oz": [
+      [
+        "cognac",
+        2.0
+      ],
+      [
+        "cointreau",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.75
+      ]
+    ],
+    "method": "shake (sugar rim optional)",
+    "garnish": "orange twist",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Harry\u2019s New York Bar or Ritz Paris (1920s; disputed)"
   },
   {
     "name": "Singapore Sling",
@@ -1089,302 +3372,8 @@
       "classic",
       "fruity",
       "complex"
-    ]
-  },
-  {
-    "name": "Gold Rush",
-    "spec_oz": [
-      [
-        "bourbon",
-        2.0
-      ],
-      [
-        "lemon juice",
-        0.75
-      ],
-      [
-        "honey syrup",
-        0.75
-      ]
     ],
-    "method": "shake",
-    "garnish": "no garnish",
-    "tags": [
-      "modern-classic",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Penicillin",
-    "spec_oz": [
-      [
-        "blended scotch",
-        2.0
-      ],
-      [
-        "lemon juice",
-        0.75
-      ],
-      [
-        "honey-ginger syrup",
-        0.75
-      ],
-      [
-        "islay scotch",
-        0.25
-      ]
-    ],
-    "method": "shake; float islay",
-    "garnish": "candied ginger (optional)",
-    "tags": [
-      "modern-classic",
-      "smoky",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Pimm's Cup",
-    "spec_oz": [
-      [
-        "pimm's no. 1",
-        1.5
-      ],
-      [
-        "lemon juice",
-        0.5
-      ],
-      [
-        "ginger ale",
-        3.0
-      ]
-    ],
-    "method": "build",
-    "garnish": "cucumber, mint, citrus",
-    "tags": [
-      "refreshing",
-      "herbal",
-      "highball"
-    ]
-  },
-  {
-    "name": "El Presidente",
-    "spec_oz": [
-      [
-        "aged rum",
-        1.5
-      ],
-      [
-        "dry vermouth",
-        0.75
-      ],
-      [
-        "dry cura\u00e7ao",
-        0.5
-      ],
-      [
-        "grenadine",
-        0.1
-      ]
-    ],
-    "method": "stir",
-    "garnish": "orange twist",
-    "tags": [
-      "cuban-classic",
-      "aromatic"
-    ]
-  },
-  {
-    "name": "Corpse Reviver #2",
-    "spec_oz": [
-      [
-        "gin",
-        0.75
-      ],
-      [
-        "cointreau",
-        0.75
-      ],
-      [
-        "lillet blanc or blanc vermouth",
-        0.75
-      ],
-      [
-        "lemon juice",
-        0.75
-      ],
-      [
-        "absinthe",
-        0.02
-      ]
-    ],
-    "method": "shake (absinthe rinse optional)",
-    "garnish": "no garnish",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Mezcal Margarita",
-    "spec_oz": [
-      [
-        "mezcal",
-        2.0
-      ],
-      [
-        "lime juice",
-        1.0
-      ],
-      [
-        "triple sec",
-        0.75
-      ],
-      [
-        "agave syrup",
-        0.25
-      ]
-    ],
-    "method": "shake (salt rim optional)",
-    "garnish": "lime wheel",
-    "tags": [
-      "citrus",
-      "smoky"
-    ]
-  },
-  {
-    "name": "Black Manhattan",
-    "spec_oz": [
-      [
-        "rye or bourbon",
-        2.0
-      ],
-      [
-        "averna",
-        1.0
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ],
-      [
-        "orange bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "cherry",
-    "tags": [
-      "spirit-forward",
-      "amaro"
-    ]
-  },
-  {
-    "name": "Artist's Special",
-    "spec_oz": [
-      [
-        "scotch",
-        1.5
-      ],
-      [
-        "sherry (oloroso or amontillado)",
-        0.75
-      ],
-      [
-        "lemon juice",
-        0.5
-      ],
-      [
-        "grenadine",
-        0.5
-      ]
-    ],
-    "method": "shake",
-    "garnish": "lemon twist",
-    "tags": [
-      "citrus",
-      "sherry"
-    ]
-  },
-  {
-    "name": "Sidecar",
-    "spec_oz": [
-      [
-        "cognac",
-        2.0
-      ],
-      [
-        "cointreau",
-        0.75
-      ],
-      [
-        "lemon juice",
-        0.75
-      ]
-    ],
-    "method": "shake (sugar rim optional)",
-    "garnish": "orange twist",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Between the Sheets",
-    "spec_oz": [
-      [
-        "cognac",
-        1.0
-      ],
-      [
-        "light rum",
-        1.0
-      ],
-      [
-        "cointreau",
-        1.0
-      ],
-      [
-        "lemon juice",
-        0.75
-      ]
-    ],
-    "method": "shake",
-    "garnish": "lemon twist",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Greenpoint",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "yellow chartreuse",
-        0.5
-      ],
-      [
-        "sweet vermouth",
-        0.5
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ],
-      [
-        "orange bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist",
-    "tags": [
-      "spirit-forward",
-      "modern-classic"
-    ]
+    "origin": "Ngiam Tong Boon, Raffles Hotel (Singapore, c.1915)"
   },
   {
     "name": "Southside",
@@ -1412,330 +3401,82 @@
       "citrus",
       "herbal",
       "classic"
-    ]
+    ],
+    "origin": "Prohibition-era speakeasy classic (attribution unclear)"
   },
   {
-    "name": "Eastside",
+    "name": "SouthSide",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "mint sprig",
+    "tags": [],
+    "notes": [
+      "5 mint leaves",
+      "1 ounce lemon juice",
+      "2 ounces gin",
+      "1 ounce simple syrup"
+    ],
+    "origin": "Southside Sportsman's Club (Long Island, pre-Prohibition) or Chicago Prohibition-era origin"
+  },
+  {
+    "name": "Spaghett",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Aperol 1 oz",
+      "High Life below label",
+      "Lemon. 5oz"
+    ],
+    "origin": "Reed Cahill, Wet City Brewery (Baltimore, MD)"
+  },
+  {
+    "name": "Stagger Lee",
     "spec_oz": [
       [
-        "gin",
-        2.0
-      ],
+        "Bourbon",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "7\u20448 oz Campari",
+      "2\u20443 oz Cynar",
+      "Orange peel twist"
+    ],
+    "origin": "Stagger Lee Bar (Berlin, Germany)"
+  },
+  {
+    "name": "Star Daisy",
+    "spec_oz": [
       [
-        "lime juice",
+        "Gin",
         0.75
       ],
       [
-        "simple syrup",
+        "Applejack",
         0.75
       ],
       [
-        "cucumber slices",
-        0.0
-      ],
-      [
-        "mint leaves",
-        0.0
-      ]
-    ],
-    "method": "shake with cucumber & mint",
-    "garnish": "cucumber slice & mint",
-    "tags": [
-      "citrus",
-      "herbal",
-      "refreshing"
-    ]
-  },
-  {
-    "name": "Eastern Standard",
-    "spec_oz": [
-      [
-        "gin",
-        2.0
-      ],
-      [
-        "lime juice",
-        1.0
-      ],
-      [
-        "simple syrup",
+        "Dry Curacao",
         0.75
       ],
       [
-        "cucumber slices",
-        0.0
-      ],
-      [
-        "mint leaves",
-        0.0
-      ]
-    ],
-    "method": "shake with cucumber & mint",
-    "garnish": "cucumber slice",
-    "tags": [
-      "citrus",
-      "herbal",
-      "refreshing"
-    ]
-  },
-  {
-    "name": "Red Hook",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "punt e mes",
-        0.5
-      ],
-      [
-        "maraschino liqueur",
-        0.25
-      ]
-    ],
-    "method": "stir",
-    "garnish": "cherry",
-    "tags": [
-      "spirit-forward",
-      "modern-classic"
-    ]
-  },
-  {
-    "name": "Bensonhurst",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "dry vermouth",
-        1.0
-      ],
-      [
-        "cynar",
-        0.25
-      ],
-      [
-        "maraschino liqueur",
-        0.25
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist",
-    "tags": [
-      "spirit-forward",
-      "bitter"
-    ]
-  },
-  {
-    "name": "Carroll Gardens",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "sweet vermouth",
-        0.5
-      ],
-      [
-        "amaro nardini",
-        0.5
-      ],
-      [
-        "maraschino liqueur",
-        0.17
-      ]
-    ],
-    "method": "stir",
-    "garnish": "cherry",
-    "tags": [
-      "spirit-forward",
-      "amaro"
-    ]
-  },
-  {
-    "name": "Cobble Hill",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "dry vermouth",
-        0.5
-      ],
-      [
-        "ramazzotti",
-        0.5
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "stir with a slice of cucumber",
-    "garnish": "cucumber slice",
-    "tags": [
-      "spirit-forward",
-      "amaro",
-      "herbal"
-    ]
-  },
-  {
-    "name": "Bushwick",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "dry vermouth",
-        1.0
-      ],
-      [
-        "ramazzotti",
-        0.5
-      ],
-      [
-        "maraschino liqueur",
-        0.17
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist",
-    "tags": [
-      "spirit-forward",
-      "amaro"
-    ]
-  },
-  {
-    "name": "Little Italy",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "cynar",
+        "Lemon Juice",
         0.75
       ],
       [
-        "sweet vermouth",
+        "Simple Syrup",
         0.5
       ]
     ],
-    "method": "stir",
-    "garnish": "cherry",
-    "tags": [
-      "spirit-forward",
-      "bitter"
-    ]
-  },
-  {
-    "name": "Manhattan",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "sweet vermouth",
-        1.0
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "cherry",
-    "tags": [
-      "spirit-forward",
-      "classic"
-    ]
-  },
-  {
-    "name": "Brooklyn",
-    "spec_oz": [
-      [
-        "rye",
-        2.0
-      ],
-      [
-        "dry vermouth",
-        1.0
-      ],
-      [
-        "maraschino liqueur",
-        0.25
-      ],
-      [
-        "amer picon (or substitute)",
-        0.25
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist",
-    "tags": [
-      "spirit-forward",
-      "classic"
-    ]
-  },
-  {
-    "name": "Bronx",
-    "spec_oz": [
-      [
-        "gin",
-        1.5
-      ],
-      [
-        "orange juice",
-        0.75
-      ],
-      [
-        "dry vermouth",
-        0.25
-      ],
-      [
-        "sweet vermouth",
-        0.25
-      ]
-    ],
-    "method": "shake",
-    "garnish": "orange twist",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Queens",
-    "spec_oz": [
-      [
-        "gin",
-        1.5
-      ],
-      [
-        "pineapple juice",
-        1.0
-      ],
-      [
-        "dry vermouth",
-        0.25
-      ],
-      [
-        "sweet vermouth",
-        0.25
-      ]
-    ],
-    "method": "shake",
-    "garnish": "no garnish",
-    "tags": [
-      "fruity",
-      "classic"
-    ]
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Sasha Petraske, Milk & Honey (New York City)"
   },
   {
     "name": "Staten Island Ferry",
@@ -1754,7 +3495,561 @@
     "tags": [
       "highball",
       "fruity"
-    ]
+    ],
+    "origin": "Modern easy vodka-pineapple cocktail (attribution unclear)"
+  },
+  {
+    "name": "Suffering Bastard",
+    "spec_oz": [
+      [
+        "gin",
+        1.0
+      ],
+      [
+        "brandy",
+        1.0
+      ],
+      [
+        "lime juice",
+        0.5
+      ],
+      [
+        "angostura bitters",
+        0.04
+      ],
+      [
+        "ginger beer",
+        4.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "mint & lime",
+    "tags": [
+      "highball",
+      "spicy",
+      "tiki-classic"
+    ],
+    "origin": "Joe Scialom, Shepheard\u2019s Hotel (Cairo, Egypt, 1940s)"
+  },
+  {
+    "name": "Test Pilot",
+    "spec_oz": [
+      [
+        "Dark Jamaican Rum",
+        1.5
+      ],
+      [
+        "Light Rum",
+        0.75
+      ],
+      [
+        "Cointreau",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Falernum",
+        0.5
+      ],
+      [
+        "Dark Rum",
+        1.5
+      ],
+      [
+        "151-proof Demerara Rum",
+        0.5
+      ],
+      [
+        "Falernum",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Orange Juice",
+        0.5
+      ],
+      [
+        "Passion Fruit Syrup",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "Lime/ Mint Sprig",
+    "tags": [],
+    "notes": [
+      "1 dash Angostura Bitters",
+      "6 drops Pernod",
+      "Cobra Fang"
+    ],
+    "origin": "Donn Beach, Don the Beachcomber (c.1941)"
+  },
+  {
+    "name": "Teton Tonya",
+    "spec_oz": [
+      [
+        "Aperol",
+        1.0
+      ],
+      [
+        "Cynar",
+        1.0
+      ],
+      [
+        "Rye",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 ds Becherovka (spritz to finish)",
+      "1 twst Orange peel (as garnish)"
+    ],
+    "origin": "Collin Nicholas, G-Love (Portland, OR)"
+  },
+  {
+    "name": "The Great Pretender",
+    "spec_oz": [
+      [
+        "Cinnamon Syrup",
+        0.167
+      ],
+      [
+        "Vanilla Syrup",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Pineapple Juice",
+        0.5
+      ],
+      [
+        "Gold Rum",
+        2.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "origin": "Thomas Waugh, Death & Co (NYC, 2011)"
+  },
+  {
+    "name": "The Man Comes Around",
+    "spec_oz": [
+      [
+        "Cynar",
+        1.5
+      ],
+      [
+        "Mezcal",
+        0.5
+      ],
+      [
+        "Brandy",
+        0.5
+      ],
+      [
+        "Fernet Branca",
+        0.167
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 dash Bitters (Xocolatl Mole)",
+      "1 sprig Mint"
+    ],
+    "origin": "Named after Johnny Cash song (American IV album, 2002)"
+  },
+  {
+    "name": "The Ramos Gin Fizz",
+    "spec_oz": [
+      [
+        "Simple Syrup",
+        1.0
+      ],
+      [
+        "Lemon Juice",
+        0.5
+      ],
+      [
+        "Lime Juice",
+        0.5
+      ],
+      [
+        "Heavy Cream",
+        1.0
+      ],
+      [
+        "Gin",
+        2.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "4 drops Orange Blossom Water",
+      "1 Egg White"
+    ],
+    "origin": "Henry C. Ramos, Imperial Cabinet Saloon (New Orleans, 1888)"
+  },
+  {
+    "name": "The Stark",
+    "spec_oz": [
+      [
+        "Bourbon",
+        1.5
+      ],
+      [
+        "Yellow Chartreuse",
+        0.75
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "honey syrup",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Angostura Bitters Float"
+    ],
+    "origin": "Sasha Petraske, Regarding Cocktails (Milk & Honey, NYC)"
+  },
+  {
+    "name": "The Warning Label",
+    "spec_oz": [
+      [
+        "Demerara Rum, Lemon Hart 151",
+        1.0
+      ],
+      [
+        "Cynar",
+        1.0
+      ],
+      [
+        "Sweet vermouth, Carpano Punt e Mes",
+        1.0
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 ds Orange bitters, Regans' orange bitters",
+      "1 ds Grapefruit bitters",
+      "1 rinse Campari",
+      "1 twst Lemon peel (as garnish)"
+    ],
+    "origin": "Maksym Pazuniak, Cure (New Orleans, 2009), Rogue Cocktails (2010)"
+  },
+  {
+    "name": "Three Dots and a Dash",
+    "spec_oz": [
+      [
+        "blended aged rum",
+        1.5
+      ],
+      [
+        "honey syrup",
+        0.5
+      ],
+      [
+        "demerara syrup",
+        0.5
+      ],
+      [
+        "lime juice",
+        0.75
+      ],
+      [
+        "orange juice",
+        0.5
+      ],
+      [
+        "allspice dram",
+        0.25
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "shake; crushed ice",
+    "garnish": "three cherries & pineapple frond",
+    "tags": [
+      "tiki",
+      "spicy",
+      "fruity"
+    ],
+    "origin": "Donn Beach, Don the Beachcomber (1940s)"
+  },
+  {
+    "name": "Tiger Tail",
+    "spec_oz": [
+      [
+        "Aperol",
+        1.0
+      ],
+      [
+        "Passion fruit puree",
+        1.0
+      ],
+      [
+        "Lemon Juice",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "1 1/2 oz Vodka",
+      "4-5 Fresh mint leaves, muddled",
+      "Club soda",
+      "Mint sprig and lemon wheel for garnish"
+    ],
+    "origin": "Hawker's Asian Street Food (Arlington, VA)"
+  },
+  {
+    "name": "Tom Collins",
+    "spec_oz": [
+      [
+        "gin",
+        2.0
+      ],
+      [
+        "lemon juice",
+        1.0
+      ],
+      [
+        "simple syrup",
+        0.5
+      ],
+      [
+        "soda water",
+        3.0
+      ]
+    ],
+    "method": "build",
+    "garnish": "lemon wheel & cherry",
+    "tags": [
+      "citrus",
+      "highball",
+      "classic"
+    ],
+    "origin": "Limmer\u2019s Hotel lineage (London; attribution contested)"
+  },
+  {
+    "name": "Undead Gentleman",
+    "spec_oz": [],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Absinthe rinse",
+      "1 1/2 ouncesaged rum",
+      "1 ounce black overproof rum",
+      "1/2 ounce grapefruit juice",
+      "1/2 ounce lime juice",
+      "1/2 ounce falernum",
+      "1/2 ounce cinnamon syrup",
+      "1 dash Angostura bitters"
+    ],
+    "origin": "Smuggler's Cove (San Francisco, CA)"
+  },
+  {
+    "name": "Vesper",
+    "spec_oz": [
+      [
+        ". Dry Gin",
+        1.5
+      ],
+      [
+        ". Vodka",
+        1.0
+      ],
+      [
+        ". Cocchi Americano",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "Lemon twist for garnish"
+    ],
+    "origin": "Ian Fleming's Casino Royale (1953), named for Vesper Lynd"
+  },
+  {
+    "name": "Vieux Carre",
+    "spec_oz": [
+      [
+        "Rye whiskey",
+        0.75
+      ],
+      [
+        "Cognac",
+        0.75
+      ],
+      [
+        "Sweet Vermouth",
+        0.75
+      ],
+      [
+        "Benedictine liqueur",
+        0.333
+      ]
+    ],
+    "method": "",
+    "garnish": "",
+    "tags": [],
+    "notes": [
+      "4 dashes Peychaud's bitters"
+    ],
+    "origin": "Walter Bergeron, Carousel Bar, Hotel Monteleone (New Orleans, 1930s)"
+  },
+  {
+    "name": "Vieux Carr\u00e9",
+    "spec_oz": [
+      [
+        "rye",
+        0.75
+      ],
+      [
+        "cognac",
+        0.75
+      ],
+      [
+        "sweet vermouth",
+        0.75
+      ],
+      [
+        "benedictine",
+        0.25
+      ],
+      [
+        "peychaud's bitters",
+        0.02
+      ],
+      [
+        "angostura bitters",
+        0.02
+      ]
+    ],
+    "method": "stir",
+    "garnish": "lemon twist or cherry",
+    "tags": [
+      "spirit-forward",
+      "new orleans",
+      "aromatic"
+    ],
+    "origin": "Walter Bergeron, Carousel Bar at Hotel Monteleone (New Orleans, 1938)"
+  },
+  {
+    "name": "Ward Eight",
+    "spec_oz": [
+      [
+        "rye",
+        2.0
+      ],
+      [
+        "lemon juice",
+        0.5
+      ],
+      [
+        "orange juice",
+        0.5
+      ],
+      [
+        "grenadine",
+        0.5
+      ]
+    ],
+    "method": "shake",
+    "garnish": "orange slice & cherry",
+    "tags": [
+      "citrus",
+      "classic"
+    ],
+    "origin": "Locke-Ober (Boston, 1898)"
+  },
+  {
+    "name": "Zombie",
+    "spec_oz": [
+      [
+        "Jamaican Rum",
+        1.5
+      ],
+      [
+        "Gold Rum",
+        1.5
+      ],
+      [
+        "151-proof Demerara Rum",
+        1.0
+      ],
+      [
+        "Lime Juice",
+        0.75
+      ],
+      [
+        "Don\u2019s mix",
+        0.5
+      ],
+      [
+        "Falernum",
+        0.5
+      ],
+      [
+        "Grenadine",
+        0.167
+      ],
+      [
+        "Rye",
+        1.0
+      ],
+      [
+        "Applejack",
+        1.0
+      ],
+      [
+        "Amaro Nonino",
+        0.5
+      ],
+      [
+        "Sweet Vermouth",
+        0.5
+      ]
+    ],
+    "method": "",
+    "garnish": "Orange Twist",
+    "tags": [],
+    "notes": [
+      "2 drops Absinthe",
+      "1 dash Angostura Bitters",
+      "Fall Back",
+      "2 Dashes Peychauds Bitters"
+    ],
+    "origin": "Don the Beachcomber (Hollywood, 1934)"
   },
   {
     "name": "Zombie (1934-inspired)",
@@ -1806,431 +4101,7 @@
       "tiki",
       "complex",
       "strong"
-    ]
-  },
-  {
-    "name": "Ancient Mariner",
-    "spec_oz": [
-      [
-        "demerara rum",
-        1.0
-      ],
-      [
-        "dark jamaican rum",
-        1.0
-      ],
-      [
-        "lime juice",
-        0.75
-      ],
-      [
-        "grapefruit juice",
-        0.5
-      ],
-      [
-        "allspice dram",
-        0.25
-      ],
-      [
-        "demerara syrup",
-        0.5
-      ]
     ],
-    "method": "shake; crushed ice",
-    "garnish": "mint",
-    "tags": [
-      "tiki",
-      "spicy",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Batanga",
-    "spec_oz": [
-      [
-        "blanco tequila",
-        2.0
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "cola",
-        4.0
-      ],
-      [
-        "salt",
-        0.0
-      ]
-    ],
-    "method": "build (salted rim)",
-    "garnish": "lime wedge",
-    "tags": [
-      "highball",
-      "refreshing"
-    ]
-  },
-  {
-    "name": "Banana Daiquiri",
-    "spec_oz": [
-      [
-        "white rum",
-        1.5
-      ],
-      [
-        "banana liqueur",
-        0.5
-      ],
-      [
-        "lime juice",
-        1.0
-      ],
-      [
-        "simple syrup",
-        0.5
-      ]
-    ],
-    "method": "shake or blend",
-    "garnish": "banana slice",
-    "tags": [
-      "tropical",
-      "fruity",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Division Bell",
-    "spec_oz": [
-      [
-        "mezcal",
-        0.75
-      ],
-      [
-        "aperol",
-        0.75
-      ],
-      [
-        "maraschino liqueur",
-        0.5
-      ],
-      [
-        "lime juice",
-        0.75
-      ]
-    ],
-    "method": "shake",
-    "garnish": "grapefruit twist",
-    "tags": [
-      "modern-classic",
-      "smoky",
-      "citrus"
-    ]
-  },
-  {
-    "name": "Ramos Gin Fizz",
-    "spec_oz": [
-      [
-        "gin",
-        2.0
-      ],
-      [
-        "lemon juice",
-        0.5
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "simple syrup",
-        0.5
-      ],
-      [
-        "heavy cream",
-        1.0
-      ],
-      [
-        "egg white",
-        1.0
-      ],
-      [
-        "orange flower water",
-        0.02
-      ],
-      [
-        "soda water",
-        2.0
-      ]
-    ],
-    "method": "dry shake, wet shake, top with soda",
-    "garnish": "no garnish",
-    "tags": [
-      "fizz",
-      "creamy",
-      "classic"
-    ]
-  },
-  {
-    "name": "Old Pal",
-    "spec_oz": [
-      [
-        "rye",
-        1.5
-      ],
-      [
-        "campari",
-        0.75
-      ],
-      [
-        "dry vermouth",
-        0.75
-      ]
-    ],
-    "method": "stir",
-    "garnish": "lemon twist",
-    "tags": [
-      "bitter",
-      "classic"
-    ]
-  },
-  {
-    "name": "Oaxaca Old Fashioned",
-    "spec_oz": [
-      [
-        "reposado tequila",
-        1.5
-      ],
-      [
-        "mezcal",
-        0.5
-      ],
-      [
-        "agave syrup",
-        0.25
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "stir",
-    "garnish": "orange twist",
-    "tags": [
-      "smoky",
-      "spirit-forward",
-      "modern-classic"
-    ]
-  },
-  {
-    "name": "Suffering Bastard",
-    "spec_oz": [
-      [
-        "gin",
-        1.0
-      ],
-      [
-        "brandy",
-        1.0
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "angostura bitters",
-        0.04
-      ],
-      [
-        "ginger beer",
-        4.0
-      ]
-    ],
-    "method": "build",
-    "garnish": "mint & lime",
-    "tags": [
-      "highball",
-      "spicy",
-      "tiki-classic"
-    ]
-  },
-  {
-    "name": "Pan American Clipper",
-    "spec_oz": [
-      [
-        "apple brandy",
-        1.5
-      ],
-      [
-        "lime juice",
-        0.75
-      ],
-      [
-        "grenadine",
-        0.5
-      ],
-      [
-        "absinthe",
-        0.02
-      ]
-    ],
-    "method": "shake (absinthe rinse optional)",
-    "garnish": "no garnish",
-    "tags": [
-      "citrus",
-      "classic"
-    ]
-  },
-  {
-    "name": "Three Dots and a Dash",
-    "spec_oz": [
-      [
-        "blended aged rum",
-        1.5
-      ],
-      [
-        "honey syrup",
-        0.5
-      ],
-      [
-        "demerara syrup",
-        0.5
-      ],
-      [
-        "lime juice",
-        0.75
-      ],
-      [
-        "orange juice",
-        0.5
-      ],
-      [
-        "allspice dram",
-        0.25
-      ],
-      [
-        "angostura bitters",
-        0.02
-      ]
-    ],
-    "method": "shake; crushed ice",
-    "garnish": "three cherries & pineapple frond",
-    "tags": [
-      "tiki",
-      "spicy",
-      "fruity"
-    ]
-  },
-  {
-    "name": "Old Paloma (Ruby Red variant)",
-    "spec_oz": [
-      [
-        "blanco tequila",
-        2.0
-      ],
-      [
-        "ruby red grapefruit juice",
-        2.0
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "simple syrup",
-        0.25
-      ],
-      [
-        "soda water",
-        1.0
-      ],
-      [
-        "salt",
-        0.0
-      ]
-    ],
-    "method": "build (salt rim optional)",
-    "garnish": "grapefruit wedge",
-    "tags": [
-      "refreshing",
-      "citrus",
-      "highball"
-    ]
-  },
-  {
-    "name": "Hanky Panky",
-    "spec_oz": [
-      [
-        "gin",
-        2.0
-      ],
-      [
-        "sweet vermouth",
-        1.5
-      ],
-      [
-        "fernet branca",
-        0.25
-      ]
-    ],
-    "method": "stir",
-    "garnish": "orange twist",
-    "tags": [
-      "aromatic",
-      "classic",
-      "bitter"
-    ]
-  },
-  {
-    "name": "Art of Choke",
-    "spec_oz": [
-      [
-        "white rum",
-        1.5
-      ],
-      [
-        "cynar",
-        0.75
-      ],
-      [
-        "lime juice",
-        0.5
-      ],
-      [
-        "demerara syrup",
-        0.5
-      ],
-      [
-        "mint leaves",
-        0.0
-      ]
-    ],
-    "method": "shake with mint",
-    "garnish": "mint sprig",
-    "tags": [
-      "bitter",
-      "herbal",
-      "modern"
-    ]
-  },
-  {
-    "name": "Rabo de Galo",
-    "spec_oz": [
-      [
-        "cacha\u00e7a",
-        2.0
-      ],
-      [
-        "cynar (or italian amaro)",
-        0.75
-      ]
-    ],
-    "method": "stir or build over ice",
-    "garnish": "orange twist",
-    "tags": [
-      "amaro",
-      "spirit-forward",
-      "bitter"
-    ]
+    "origin": "Donn Beach, Don the Beachcomber (Los Angeles, 1934)"
   }
 ]
