@@ -37,7 +37,7 @@ A curated cocktail recommendation engine powered by the OpenAI API and a meticul
 ---
 
 ## 💡 Example Uses
-**Home Bartender’s Tool –** Know exactly what you can make with your current bar.
+**Home Bartender’s Tool –** Know exactly what you can make with your current inventory of bottles.
 
 **Party Planning Tool –** Find drinks that match the theme or desired flavors of your party.
 
