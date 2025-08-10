@@ -56,22 +56,22 @@ Each object looks like:
 
 ```json
 {
-  "name": "Eeyore's Requiem",
-  "aliases": ["Eeyore’s", "Eeyore Requiem"],
+ "name": "Eeyore's Requiem",
+  "aliases": ["Eeyore’s", "Eeyore Requiem", "Eeyores Requiem"],
   "spec_oz": [
-    { "ingredient": "Gin", "amount_oz": 1.5 },
-    { "ingredient": "Campari", "amount_oz": 0.5 },
-    { "ingredient": "Cynar", "amount_oz": 1.0 },
-    { "ingredient": "Sweet Vermouth", "amount_oz": 0.5 },
-    { "ingredient": "Fernet Branca", "amount_oz": 0.17 },
+    { "ingredient": "Campari", "amount_oz": 1.5 },
+    { "ingredient": "Blanc Vermouth", "amount_oz": 1.0 },
+    { "ingredient": "Gin", "amount_oz": 0.5 },
+    { "ingredient": "Cynar", "amount_oz": 0.25 },
+    { "ingredient": "Fernet-Branca", "amount_oz": 0.25 },
     { "ingredient": "Orange Bitters", "amount_oz": 0.02 }
   ],
-  "garnish": "Orange twist (express & discard)",
+  "garnish": "Orange peel twist",
   "method": "Stir; serve up",
   "substitutions": [
     { "ingredient": "Campari", "possible_subs": ["Cappelletti", "Luxardo Bitter", "Gancia Bitter"] },
-    { "ingredient": "Cynar", "possible_subs": ["Cynar 70 (stronger)", "Cardamaro (sweeter)"] },
-    { "ingredient": "Sweet Vermouth", "possible_subs": ["Carpano Antica", "Cocchi Vermouth di Torino"] }
+    { "ingredient": "Blanc Vermouth", "possible_subs": ["Lillet Blanc", "Cocchi Americano"] },
+    { "ingredient": "Cynar", "possible_subs": ["Cardamaro", "Amaro Montenegro"] }
   ],
   "tags": ["bitter", "amaro-forward", "modern-classic"],
   "origin": "Toby Maloney, The Violet Hour (Chicago, 2008)"
