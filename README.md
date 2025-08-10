@@ -70,7 +70,7 @@ Each object looks like:
   "method": "Stir; serve up",
   "substitutions": [
     { "ingredient": "Campari", "possible_subs": ["Cappelletti", "Luxardo Bitter", "Gancia Bitter"] },
-    { "ingredient": "Blanc Vermouth", "possible_subs": ["Lillet Blanc", "Cocchi Americano"] },
+    { "ingredient": "Blanc Vermouth", "possible_subs": ["Lillet Blanc", "Cocchi Americano", "Half Sweet/ Half Dry"] },
     { "ingredient": "Cynar", "possible_subs": ["Cardamaro", "Amaro Montenegro"] }
   ],
   "tags": ["bitter", "amaro-forward", "modern-classic"],
