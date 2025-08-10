@@ -43,7 +43,7 @@ A curated cocktail recommendation engine powered by the OpenAI API and a meticul
 
 **Bar Menu Generator –** Auto-generate seasonal menus with cocktail descriptions.
 
-**Cocktail Education –** Learn drink history alongside making it.
+**Cocktail Education –** Learn how to mix good drinks.
 
 **Substitution Advisor –** Find the best alternative when you’re missing an ingredient.
 
