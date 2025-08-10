@@ -36,6 +36,19 @@ A curated cocktail recommendation engine powered by the OpenAI API and a meticul
 
 ---
 
+## 💡 Example Uses
+**Home Bartender’s Tool –** Know exactly what you can make with your current bar.
+
+**Party Planning Tool –** Find drinks that match the theme or desired flavors of your party.
+
+**Bar Menu Generator –** Auto-generate seasonal menus with cocktail descriptions.
+
+**Cocktail Education –** Learn drink history alongside making it.
+
+**Substitution Advisor –** Find the best alternative when you’re missing an ingredient.
+
+---
+
 ## 📂 Dataset Structure
 
 The file [`recipes.json`](recipes.json) is a JSON array of cocktail objects.  
