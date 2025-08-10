@@ -26,11 +26,11 @@ A curated cocktail recommendation engine powered by the OpenAI API and a meticul
 
 - **Historical Context**  
   - Origins sourced from respected cocktail history references within Kevin Ryan's home library:
-    - *Sasha Petraske’s “Regarding Cocktails” (and cocktails from Milk and Honey)*,
-    - *Maksym Pazuniak's "Rogue Cocktails"*, *"Beta Cocktails"* *(and cocktails from Cure in New Orleans)*,
-    - *Death & Co cocktails*,
-    - *"Smuggler’s Cove" by Martin and Rebecca Cate*,
-    - *Beachbum Berry’s tiki research*,
+    - Sasha Petraske’s *“Regarding Cocktails”* (and cocktails from Milk and Honey),
+    - Maksym Pazuniak's *"Rogue Cocktails"*, *"Beta Cocktails"* (and cocktails from Cure in New Orleans),
+    - Death & Co cocktails,
+    - *"Smuggler’s Cove"* by Martin and Rebecca Cate,
+    - Beachbum Berry’s tiki research,
     - *Savoy Cocktail Book*
     - and other important literature!!!
 
